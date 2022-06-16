@@ -1,0 +1,1100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Elements Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-03-14 11:39:17 UTC\n"
+"PO-Revision-Date: 2014-04-15 11:57+0530\n"
+"Last-Translator: Surya <surya@cyberchimps.com>\n"
+"Language-Team: Slovenian, Slovenia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 1 : n%100==2 ? 2 : n%100==3 || n"
+"%100==4 ? 3 : 0);\n"
+
+#: ../../boxes.php ../../init.php ../../setup/features.php
+msgid "Boxes"
+msgstr "Škatle"
+
+#: ../../boxes.php
+msgid "Add new Box"
+msgstr "Dodajanje novega polja kategorije"
+
+#: ../../boxes.php
+msgid "Edit Box"
+msgstr "Vnosno polje"
+
+#: ../../boxes.php
+msgid "New Box"
+msgstr "Novo polje"
+
+#: ../../boxes.php
+msgid "View Box"
+msgstr "Polje prikaza"
+
+#: ../../boxes.php
+msgid "Search Boxes"
+msgstr "Polja za iskanje"
+
+#: ../../boxes.php
+msgid "No Boxes found"
+msgstr "Našel je mo₧nost brez okenca"
+
+#: ../../boxes.php
+msgid "No Boxes found in trash"
+msgstr "Ni polja najdemo v smeti"
+
+#: ../../boxes.php
+msgctxt "taxonomy general name"
+msgid "Boxes Categories"
+msgstr "Polja kategorije"
+
+#: ../../boxes.php
+msgctxt "taxonomy singular name"
+msgid "Boxes Catergory"
+msgstr "Škatle Catergory"
+
+#: ../../boxes.php
+msgid "All Boxes"
+msgstr "Vsa polja"
+
+#: ../../boxes.php
+msgid "Boxes Category"
+msgstr "Polja kategorije"
+
+#: ../../boxes.php
+msgid "Boxes Category:"
+msgstr "Škatle Kategorija:"
+
+#: ../../boxes.php
+msgid "Edit Boxes Category"
+msgstr "Urejanje polja kategorije"
+
+#: ../../boxes.php
+msgid "Update Boxes Category"
+msgstr "Posodobite polja kategorije"
+
+#: ../../boxes.php
+msgid "Add New Boxes Category"
+msgstr "Dodajanje novega polja kategorije"
+
+#: ../../boxes.php
+msgid "New Boxes Category Name"
+msgstr "Novo ime polja kategorije"
+
+#: ../../boxes.php
+msgid "Box Image"
+msgstr "Polje slike"
+
+#: ../../boxes.php
+msgid "Box URL"
+msgstr "Polje URL"
+
+#: ../../boxes.php
+msgid "Link the whole box"
+msgstr "Povezava celo škatlo"
+
+#: ../../boxes.php
+msgid "Box Text"
+msgstr "Polje besedilo"
+
+#: ../../boxes.php
+msgid "Boxes Element"
+msgstr "Element polja"
+
+#: ../../boxes.php ../../carousel.php ../../portfolio.php ../../slider.php
+msgid "You need to create a Category"
+msgstr "Vi potreba tvoriti a Kategorija"
+
+#: ../../boxes.php
+msgid "Number of boxes per row"
+msgstr "Število polj na vrstico"
+
+#: ../../boxes.php
+msgid "Boxes Options"
+msgstr "Možnosti banner"
+
+#: ../../boxes.php
+msgid "%1$s Slider"
+msgstr "%1$ s drsnik"
+
+#: ../../boxes.php
+msgid ""
+"The New Touch Friendly %1$s Slider now responds to any mobile touch device."
+msgstr ""
+"Nov dotik prijazne %1$ s drsnik zdaj odgovarja vsak mobilni touch napravo."
+
+#: ../../boxes.php
+msgid "Responsive Design"
+msgstr "Odziven Design"
+
+#: ../../boxes.php
+msgid ""
+"With %1$s and touch friendly responsive design you can now control your "
+"website on any device."
+msgstr ""
+"Z %1$ s in dotik odziven prijazna zdaj lahko nadzorujete vašo spletno stran "
+"na kateri koli napravi."
+
+#: ../../boxes.php
+msgid "Excellent Support"
+msgstr "Odlično podporo"
+
+#: ../../boxes.php
+msgid ""
+"Need help? Read the instructions and please visit our dedicated Pro Support "
+"Forum."
+msgstr ""
+"Potrebujete pomoč? Preberite navodila in obiščite naše namenske Pro podpore "
+"Forum."
+
+#: ../../breadcrumbs.php
+msgid "Home"
+msgstr "Dom"
+
+#: ../../breadcrumbs.php
+msgid "Archive for category "
+msgstr "Arhiv za kategorijo "
+
+#: ../../breadcrumbs.php
+msgid "Search results for "
+msgstr "Rezultati iskanja za "
+
+#: ../../breadcrumbs.php
+msgid "Posts tagged "
+msgstr "Posts tagged "
+
+#: ../../breadcrumbs.php
+msgid "Articles posted by "
+msgstr "Članki, objavljeni z "
+
+#: ../../breadcrumbs.php
+msgid "Error 404"
+msgstr "Napaka 404"
+
+#: ../../breadcrumbs.php ../../init.php
+msgid "Page"
+msgstr "Strani"
+
+#: ../../callout.php
+msgid "Callout Title"
+msgstr "Naslov izdelka"
+
+#: ../../callout.php
+msgid "%1$s's Call Out Element"
+msgstr "%1$ stakne klic ven Element"
+
+#: ../../callout.php
+msgid "Callout Text"
+msgstr "Oblaček oddelek"
+
+#: ../../callout.php
+msgid ""
+"Use %1$s's Call Out section on any page where you want to deliver an "
+"important message to your customer or client."
+msgstr ""
+"Uporabite %1$ stakne klic iz oddelka na kateri koli strani, kamor želite "
+"dostaviti pomembno sporočilo za vašo stranko ali stranke."
+
+#: ../../callout.php
+msgid "Callout Button"
+msgstr "Oblaček oddelek"
+
+#: ../../callout.php
+msgid "Callout Button Text"
+msgstr "Oblaček oddelek"
+
+#: ../../callout.php
+msgid "Click Here"
+msgstr "Kliknite tukaj"
+
+#: ../../callout.php
+msgid "Callout Button URL"
+msgstr "Oblaček oddelek"
+
+#: ../../callout.php
+msgid "Custom Callout Options"
+msgstr "Možnosti diapozitivov po meri"
+
+#: ../../callout.php
+msgid "Custom Button Image"
+msgstr "Slika za gumb po meri"
+
+#: ../../callout.php
+msgid "Custom Background Color"
+msgstr "Barva ozadja po meri"
+
+#: ../../callout.php
+msgid "Custom Title Color"
+msgstr "Barva po meri naslov"
+
+#: ../../callout.php
+msgid "Custom Text Color"
+msgstr "Barva besedila po meri"
+
+#: ../../callout.php
+msgid "Custom Button Color"
+msgstr "Gumb po meri barva"
+
+#: ../../callout.php
+msgid "Custom Button Text Color"
+msgstr "Barva besedila gumb po meri"
+
+#: ../../callout.php
+msgid "Callout Options"
+msgstr "Oblaček oddelek"
+
+#: ../../carousel.php ../../init.php
+msgid "Carousel"
+msgstr "Vrtiljak"
+
+#: ../../carousel.php
+msgid "Carousel item"
+msgstr "Vrtiljak"
+
+#: ../../carousel.php
+msgid "Add new Carousel item"
+msgstr "Dodajte novo kategorijo vrtiljak"
+
+#: ../../carousel.php
+msgid "Edit Carousel item"
+msgstr "Urejanje kategorije vrtiljak"
+
+#: ../../carousel.php
+msgid "New Carousel item"
+msgstr "Novo ime kategorije vrtiljak"
+
+#: ../../carousel.php
+msgid "View Carousel item"
+msgstr "Novo ime kategorije vrtiljak"
+
+#: ../../carousel.php
+msgid "Search Carousel items"
+msgstr "Išči vrtiljak"
+
+#: ../../carousel.php
+msgid "No Carousel items found"
+msgstr "Vrtiljak Kategorija"
+
+#: ../../carousel.php
+msgid "No Carousel items found in trash"
+msgstr "Vrtiljak elementov najdemo v smeti"
+
+#: ../../carousel.php
+msgctxt "taxonomy general name"
+msgid "Carousel Categories"
+msgstr "Vrtiljak kategorije"
+
+#: ../../carousel.php
+msgctxt "taxonomy singular name"
+msgid "Carousel Catergory"
+msgstr "Vrtiljak Catergory"
+
+#: ../../carousel.php
+msgid "Search Carousel"
+msgstr "Išči vrtiljak"
+
+#: ../../carousel.php
+msgid "All Carousels"
+msgstr "Vse vrtiljakov"
+
+#: ../../carousel.php
+msgid "Carousel Category"
+msgstr "Vrtiljak Kategorija"
+
+#: ../../carousel.php
+msgid "Carousel Category:"
+msgstr "Vrtiljak Kategorija:"
+
+#: ../../carousel.php
+msgid "Edit Carousel Category"
+msgstr "Urejanje kategorije vrtiljak"
+
+#: ../../carousel.php
+msgid "Update Carousel Category"
+msgstr "Posodobitev vrtiljak Kategorija"
+
+#: ../../carousel.php
+msgid "Add New Carousel Category"
+msgstr "Dodajte novo kategorijo vrtiljak"
+
+#: ../../carousel.php
+msgid "New Carousel Category Name"
+msgstr "Novo ime kategorije vrtiljak"
+
+#: ../../carousel.php
+msgid "Featured Post Image"
+msgstr "Priporočeni Post podobo"
+
+#: ../../carousel.php
+msgid "Featured Post URL"
+msgstr "Priporočeni Post URL"
+
+#: ../../carousel.php ../../portfolio.php
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: ../../carousel.php
+msgid "Reorder Name"
+msgstr "Preuredi ime"
+
+#: ../../carousel.php
+msgid "Featured Post Carousel"
+msgstr "Priporočeni Post vrtiljak možnosti"
+
+#: ../../carousel.php
+msgid "Carousel Options"
+msgstr "Priporočeni Post vrtiljak možnosti"
+
+#: ../../htmlbox.php
+msgid "Custom HTML"
+msgstr "Po meri CSS"
+
+#: ../../htmlbox.php
+msgid "Enter your custom html here"
+msgstr "Vnesite svojo meri html tukaj"
+
+#: ../../htmlbox.php
+msgid "HTML Box Options"
+msgstr "HTML polje"
+
+#: ../../init.php
+msgid "Callout Section"
+msgstr "Oblaček oddelek"
+
+#: ../../init.php
+msgid "HTML Box"
+msgstr "HTML polje"
+
+#: ../../init.php ../../setup/features.php
+msgid "CyberChimps Slider"
+msgstr "CyberChimps drsnik"
+
+#: ../../init.php
+msgid "Magazine"
+msgstr "Revija"
+
+#: ../../init.php ../../portfolio.php
+msgid "Portfolio"
+msgstr "Portfelja"
+
+#: ../../init.php ../../setup/features.php
+msgid "Post Page"
+msgstr "Post stran"
+
+#: ../../init.php ../../product.php
+msgid "Product"
+msgstr "Izdelek"
+
+#: ../../init.php
+msgid "Recent Posts"
+msgstr "Zadnje objave"
+
+#: ../../init.php
+msgid "Twitter Bar"
+msgstr "Twitter Bar"
+
+#: ../../init.php
+msgid "Widgets"
+msgstr "Pripomočki"
+
+#: ../../init.php ../../setup/features.php
+msgid "Breadcrumbs"
+msgstr "Drobtine"
+
+#: ../../magazine.php
+msgid "Edit"
+msgstr "Vnosno polje"
+
+#: ../../magazine.php
+msgid "Magazine Options"
+msgstr "Možnosti banner"
+
+#: ../../magazine.php
+msgid "Sidebar"
+msgstr "Stranska vrstica"
+
+#: ../../magazine.php
+msgid "Meta Data"
+msgstr "Meta podatkov"
+
+#: ../../magazine.php
+msgid "Featured Image"
+msgstr "Priporočeni Post podobo"
+
+#: ../../magazine.php
+msgid "Category"
+msgstr "Polja kategorije"
+
+#: ../../magazine.php
+msgid "Featured Excerpt Length"
+msgstr "Priporočeni Post URL"
+
+#: ../../magazine.php
+msgid "Number of Columns"
+msgstr "Število Tweets"
+
+#: ../../magazine.php
+msgid "Number of Rows"
+msgstr "Število Tweets"
+
+#: ../../magazine.php
+msgid "Wide Posts Below Magazine"
+msgstr "Široko objav pod Magazine"
+
+#: ../../magazine.php
+msgid "Wide Post Excerpt Length"
+msgstr "Široko Post odlomek dolžina"
+
+#: ../../magazine.php
+msgid "Number of Wide Posts"
+msgstr "Priporočeni Post URL"
+
+#: ../../magazine.php ../../recent-posts.php
+msgid "All"
+msgstr "Vse"
+
+#: ../../magazine.php
+msgid "magazine Options"
+msgstr "Možnosti banner"
+
+#: ../../parallax.php
+msgid "Parallax"
+msgstr "Paralakse"
+
+#: ../../parallax.php
+msgid "Parallax image"
+msgstr "Parallax sliko"
+
+#: ../../parallax.php
+msgid "Parallax speed"
+msgstr "Hitrost paralakse"
+
+#: ../../parallax.php
+msgid ""
+"Set the background image at Appearance > Background to get parallax effect "
+"on whole body."
+msgstr ""
+"Nastavite sliko za ozadje na videz > ozadje dobiti paralakse učinek na "
+"celotno telo."
+
+#: ../../parallax.php
+msgid "Background scrolling speed"
+msgstr "Ozadje hitrost drsenja"
+
+#: ../../parallax.php
+msgid "Background image for parallax"
+msgstr "Ozadje za paralakse"
+
+#: ../../parallax.php ../../setup/features.php
+msgid "Enter URL or upload file"
+msgstr "Vnesite URL ali upload pila"
+
+#: ../../portfolio.php ../../recent-posts.php
+msgid "Images"
+msgstr "Slike"
+
+#: ../../portfolio.php
+msgid "Add new Image"
+msgstr "Drsnik sliko"
+
+#: ../../portfolio.php
+msgid "Edit Image"
+msgstr "Podoba"
+
+#: ../../portfolio.php
+msgid "New Image"
+msgstr "Podoba"
+
+#: ../../portfolio.php
+msgid "View Image"
+msgstr "Drsnik sliko"
+
+#: ../../portfolio.php
+msgid "Search Images"
+msgstr "Polja za iskanje"
+
+#: ../../portfolio.php
+msgid "No Images found"
+msgstr "Ni slike, odkritih"
+
+#: ../../portfolio.php
+msgid "No Images found in trash"
+msgstr "Ni slike, odkritih v smeti"
+
+#: ../../portfolio.php
+msgctxt "taxonomy general name"
+msgid "Portfolio Categories"
+msgstr "Portfelj kategorije"
+
+#: ../../portfolio.php
+msgctxt "taxonomy singular name"
+msgid "Portfolio Catergory"
+msgstr "Portfelj Catergory"
+
+#: ../../portfolio.php
+msgid "Search Portfolio"
+msgstr "Išči portfelja"
+
+#: ../../portfolio.php
+msgid "All Portfolios"
+msgstr "Vse portfeljev"
+
+#: ../../portfolio.php
+msgid "Portfolio Category"
+msgstr "Portfelj Kategorija"
+
+#: ../../portfolio.php
+msgid "Portfolio Category:"
+msgstr "Portfelj Kategorija:"
+
+#: ../../portfolio.php
+msgid "Edit Portfolio Category"
+msgstr "Urejanje portfelja kategorije"
+
+#: ../../portfolio.php
+msgid "Update Portfolio Category"
+msgstr "Posodobitev portfelja Kategorija"
+
+#: ../../portfolio.php
+msgid "Add New Portfolio Category"
+msgstr "Dodajte novo kategorijo portfelja"
+
+#: ../../portfolio.php
+msgid "New Portfolio Category Name"
+msgstr "Novo ime kategorije portfelja"
+
+#: ../../portfolio.php
+msgid "Portfolio Image"
+msgstr "Portfelj slike"
+
+#: ../../portfolio.php ../../slider.php
+msgid "Caption"
+msgstr "Napis"
+
+#: ../../portfolio.php
+msgid "Custom Portfolio URL"
+msgstr "URL po meri portfelja"
+
+#: ../../portfolio.php
+msgid "URL"
+msgstr "URL"
+
+#: ../../portfolio.php
+msgid "Portfolio Element"
+msgstr "Portfelj Element"
+
+#: ../../portfolio.php
+msgid "Images per row"
+msgstr "Slike"
+
+#: ../../portfolio.php
+msgid "Two"
+msgstr "Dve"
+
+#: ../../portfolio.php
+msgid "Three"
+msgstr "Tri"
+
+#: ../../portfolio.php
+msgid "Four"
+msgstr "Štiri"
+
+#: ../../portfolio.php
+msgid "Portfolio Title"
+msgstr "Portfelj Element"
+
+#: ../../portfolio.php ../../recent-posts.php ../../slider.php
+msgid "Title"
+msgstr "Naslov"
+
+#: ../../portfolio.php
+msgid "Portfolio Options"
+msgstr "Portfelj kategorije"
+
+#: ../../product.php
+msgid "Product Layout"
+msgstr "Postavitev izdelkov"
+
+#: ../../product.php
+msgid "Text Left"
+msgstr "Besedilo levo"
+
+#: ../../product.php
+msgid "Text Right"
+msgstr "Besedilo v desno"
+
+#: ../../product.php
+msgid "Product Title"
+msgstr "Naslov izdelka"
+
+#: ../../product.php
+msgid "Product Text"
+msgstr "Izdelek besedilo"
+
+#: ../../product.php
+msgid "Media Type"
+msgstr "Vrsta medija"
+
+#: ../../product.php
+msgid "Image"
+msgstr "Podoba"
+
+#: ../../product.php
+msgid "Video"
+msgstr "Video"
+
+#: ../../product.php
+msgid "Product Image URL"
+msgstr "Spletni naslov slike izdelka"
+
+#: ../../product.php
+msgid "Product Video Embed"
+msgstr "Vlagati Video izdelek"
+
+#: ../../product.php
+msgid "Product Button Type"
+msgstr "Besedilo povezave izdelka"
+
+#: ../../product.php
+msgid "No button"
+msgstr "No gumb"
+
+#: ../../product.php
+msgid "Button"
+msgstr "Gumb"
+
+#: ../../product.php
+msgid "Button Image"
+msgstr "Polje slike"
+
+#: ../../product.php
+msgid "Product Button URL"
+msgstr "Izdelek URL"
+
+#: ../../product.php
+msgid "Product Button Text"
+msgstr "Besedilo povezave izdelka"
+
+#: ../../product.php
+msgid "Buy Now"
+msgstr "Kupi zdaj"
+
+#: ../../product.php
+msgid "Product Image"
+msgstr "Spletni naslov slike izdelka"
+
+#: ../../product.php
+msgid "Product URL"
+msgstr "Izdelek URL"
+
+#: ../../product.php
+msgid "Product Link Text"
+msgstr "Besedilo povezave izdelka"
+
+#: ../../product.php
+msgid "Product Button Image"
+msgstr "Spletni naslov slike izdelka"
+
+#: ../../product.php
+msgid "Product Button Image URL"
+msgstr "Spletni naslov slike izdelka"
+
+#: ../../product.php
+msgid "Product Options"
+msgstr "Izdelek Link"
+
+#: ../../recent-posts.php
+msgid "Recent Posts Title"
+msgstr "Zadnje objave"
+
+#: ../../recent-posts.php
+msgid "Post Category"
+msgstr "Polja kategorije"
+
+#: ../../recent-posts.php
+msgid "Recent Posts Options"
+msgstr "Zadnje objave"
+
+#: ../../slider.php
+msgid "Slides"
+msgstr "Diapozitivi"
+
+#: ../../slider.php
+msgid "Add new Slide"
+msgstr "Dodaj nov diapozitiv Kategorija"
+
+#: ../../slider.php
+msgid "Edit Slide"
+msgstr "Urejanje diapozitiva kategorije"
+
+#: ../../slider.php
+msgid "New Slide"
+msgstr "Diapozitivi"
+
+#: ../../slider.php
+msgid "View Slide"
+msgstr "iFeature drsnik"
+
+#: ../../slider.php
+msgid "Search Slides"
+msgstr "Išči diapozitivov"
+
+#: ../../slider.php
+msgid "No Slides found"
+msgstr "Našel diapozitivov"
+
+#: ../../slider.php
+msgid "No Slides found in trash"
+msgstr "Diapozitivov v smeti"
+
+#: ../../slider.php
+msgctxt "taxonomy general name"
+msgid "Slide Categories"
+msgstr "Diapozitiv kategorije"
+
+#: ../../slider.php
+msgctxt "taxonomy singular name"
+msgid "Slide Catergory"
+msgstr "Diapozitiv Catergory"
+
+#: ../../slider.php
+msgid "All Slides"
+msgstr "Vsi diapozitivi"
+
+#: ../../slider.php
+msgid "Slide Category"
+msgstr "Diapozitiv Kategorija"
+
+#: ../../slider.php
+msgid "Slide Category:"
+msgstr "Diapozitiv Kategorija:"
+
+#: ../../slider.php
+msgid "Edit Slide Category"
+msgstr "Urejanje diapozitiva kategorije"
+
+#: ../../slider.php
+msgid "Update Slide Category"
+msgstr "Posodobitev diapozitiva Kategorija"
+
+#: ../../slider.php
+msgid "Add New Slide Category"
+msgstr "Dodaj nov diapozitiv Kategorija"
+
+#: ../../slider.php
+msgid "New Slide Category Name"
+msgstr "Novi diapozitiv ime kategorije"
+
+#: ../../slider.php
+msgid "Slider Image"
+msgstr "Drsnik sliko"
+
+#: ../../slider.php
+msgid "Slider Caption"
+msgstr "Drsnik napis"
+
+#: ../../slider.php
+msgid "Custom Slide Link"
+msgstr "Povezava diapozitivov po meri"
+
+#: ../../slider.php
+msgid "Reorder"
+msgstr "Preuredi ime"
+
+#: ../../slider.php
+msgid "Custom Feature Slides"
+msgstr "Meri funkcija diapozitivov"
+
+#: ../../slider.php
+msgid "Slider Size"
+msgstr "Drsnik sliko"
+
+#: ../../slider.php
+msgid "Full"
+msgstr "Poln"
+
+#: ../../slider.php
+msgid "Half"
+msgstr "Polovica"
+
+#: ../../slider.php
+msgid "Slider Type"
+msgstr "Drsnik sliko"
+
+#: ../../slider.php
+msgid "Custom"
+msgstr "Po meri CSS"
+
+#: ../../slider.php
+msgid "Posts"
+msgstr "Objav"
+
+#: ../../slider.php
+msgid "Post Categories"
+msgstr "Polja kategorije"
+
+#: ../../slider.php
+msgid "Custom Categories"
+msgstr "Vrtiljak kategorije"
+
+#: ../../slider.php
+msgid "Number of Featured Posts"
+msgstr "Priporočeni Post URL"
+
+#: ../../slider.php
+msgid "Slider Height"
+msgstr "Drsnik sliko"
+
+#: ../../slider.php
+msgid "Slider Speed"
+msgstr "Drsnik sliko"
+
+#: ../../slider.php
+msgid "Slider Arrows"
+msgstr "Diapozitivi"
+
+#: ../../slider.php
+msgid "CyberChimps Slider Options"
+msgstr "CyberChimps možnosti"
+
+#: ../../twitter-bar.php
+msgid "Error retrieving tweets"
+msgstr "Napaka pri pridobivanju tweets"
+
+#: ../../twitter-bar.php
+msgid "%1$s followers"
+msgstr "%1$ s privrženci"
+
+#: ../../twitter-bar.php
+msgid "%s ago"
+msgstr "%s nazaj"
+
+#: ../../twitter-bar.php
+msgid "No tweets to display"
+msgstr "Št tweets za prikaz"
+
+#: ../../twitter-bar.php
+msgid "Twitter API Options"
+msgstr "Twitter API možnosti"
+
+#: ../../twitter-bar.php
+msgid "Edit Twitter API"
+msgstr "Urejanje Twitter API"
+
+#: ../../twitter-bar.php
+msgid "Create your Twitter App here"
+msgstr "Ustvarite vaš Cvrkutati App tukaj"
+
+#: ../../twitter-bar.php
+msgid "Complete all parts of the form and create your application"
+msgstr "Izpolnite vse dele obrazca in ustvariti aplikacijo"
+
+#: ../../twitter-bar.php
+msgid "On the next page click on the button Create my access token"
+msgstr "Na naslednji strani, kliknite na gumb Ustvari žeton za dostop"
+
+#: ../../twitter-bar.php
+msgid "Now take the details and fill out the form below"
+msgstr "Zdaj se podrobnosti in izpolnite spodnji obrazec"
+
+#: ../../twitter-bar.php
+msgid "Save your options"
+msgstr "Shranite vaše možnosti"
+
+#: ../../twitter-bar.php
+msgid "Create a Twitter App"
+msgstr "Ustvarjanje Cvrkutati App"
+
+#: ../../twitter-bar.php
+msgid "Consumer Key"
+msgstr "Potrošnik ključ"
+
+#: ../../twitter-bar.php
+msgid "Consumer Secret"
+msgstr "Potrošnik skrivnost"
+
+#: ../../twitter-bar.php
+msgid "Access Token"
+msgstr "Žeton za dostop"
+
+#: ../../twitter-bar.php
+msgid "Access Token Secret"
+msgstr "Skrivnost žetona dostop"
+
+#: ../../twitter-bar.php
+msgid "Twitter Handle"
+msgstr "Cvrkutati ročaj"
+
+#: ../../twitter-bar.php
+msgid "Number Of Tweets"
+msgstr "Število Tweets"
+
+#: ../../twitter-bar.php
+msgid ""
+"Including replies, if replies are set to off then the number shown could be "
+"less"
+msgstr ""
+"Vključno z odgovori, če odgovorov nastavljeni na Izkljuèeno nato prikazana "
+"številka je lahko manj"
+
+#: ../../twitter-bar.php
+msgid "Use your Twitter Image"
+msgstr "Uporabite vaš Cvrkutati slike"
+
+#: ../../twitter-bar.php
+msgid "Show the number of followers"
+msgstr "Pokaži število privržencev"
+
+#: ../../twitter-bar.php
+msgid "Include Replies"
+msgstr "Vključujejo odgovorov"
+
+#: ../../twitter-bar.php
+msgid "Include Retweets"
+msgstr "Vključujejo Retweets"
+
+#: ../../twitter-bar.php
+msgid "Show a different Twitter account"
+msgstr "Razstava različnih Cvrkutati račun"
+
+#: ../../twitter-bar.php
+msgid "Leaving this off will show the default account in your theme options"
+msgstr "To zapušča off prikaže privzeti račun v vaš tema možnosti"
+
+#: ../../twitter-bar.php
+msgid "Twitter Options"
+msgstr "Twitter API možnosti"
+
+#: ../../twitter-bar.php
+msgid "Error"
+msgstr "Napaka 404"
+
+#: ../../widgets.php
+msgid "Box Left"
+msgstr "Polje levo"
+
+#: ../../widgets.php
+msgid "This is the left widget of the three-box section"
+msgstr "To je levi widget oddelek tri-box"
+
+#: ../../widgets.php
+msgid "Box Middle"
+msgstr "Polje sredi"
+
+#: ../../widgets.php
+msgid "This is the middle widget of the three-box section"
+msgstr "To je srednji widget oddelek tri-box"
+
+#: ../../widgets.php
+msgid "Box Right"
+msgstr "Polje desno"
+
+#: ../../widgets.php
+msgid "This is the right widget of the three-box section"
+msgstr "To je pravo widget oddelek tri-box"
+
+#: ../../widgets.php
+msgid "This is the box left widgetized area."
+msgstr "To je widgetized področje levo polje."
+
+#: ../../widgets.php
+msgid "This is the box middle widgetized area."
+msgstr "To je polje sredini widgetized območja."
+
+#: ../../widgets.php
+msgid "This is the box right widgetized area."
+msgstr "To je widgetized območje desno polje."
+
+#: ../../setup/features.php
+msgid "Import/Export"
+msgstr "Uvoz/izvoz"
+
+#: ../../setup/features.php
+msgid "Custom CSS"
+msgstr "Po meri CSS"
+
+#: ../../setup/features.php
+msgid "Contact Element"
+msgstr "Kontaktni Element"
+
+#: ../../setup/features.php
+msgid "Banner Options"
+msgstr "Možnosti banner"
+
+#: ../../setup/features.php
+msgid "Import / Export"
+msgstr "Uvoz / izvoz"
+
+#: ../../setup/features.php
+msgid "Details"
+msgstr "Podrobnosti"
+
+#: ../../setup/features.php
+msgid "Banner Image"
+msgstr "Banner slike"
+
+#: ../../setup/features.php
+msgid "Banner URL"
+msgstr "Banner URL"
+
+#: ../../setup/features.php
+msgid "Cyberchimps Link"
+msgstr "Cyberchimps povezava"
+
+#: ../../setup/features.php
+msgid "Footer Scripts"
+msgstr "Noga skripte"
+
+#: ../../setup/features.php
+msgid "Please add script tags"
+msgstr "Dodajte skriptne oznake"
+
+#: ../../setup/features.php
+msgid "Export Settings"
+msgstr "Izvoz nastavitev"
+
+#: ../../setup/features.php
+msgid "Import Settings"
+msgstr "Uvozi nastavitve"
+
+#: ../../setup/features.php
+msgid "Searchbar text"
+msgstr "Searchbar besedilo"
+
+#: ../../setup/features.php
+msgid "Banner"
+msgstr "Banner"
+
+#: ../../setup/features.php
+msgid "Description + Icons"
+msgstr "Opis + ikone"
+
+#: ../../setup/features.php
+msgid "Logo + Contact"
+msgstr "Logo + Kontakt"
+
+#: ../../setup/features.php
+msgid "Logo + Description"
+msgstr "Logo + opis"
+
+#: ../../setup/features.php
+msgid "Logo + Icons"
+msgstr "Logo + ikone"
+
+#: ../../setup/features.php
+msgid "Logo + Login"
+msgstr "Logo + prepričevalnost"
+
+#: ../../setup/features.php
+msgid "Logo + Search"
+msgstr "Logo + iskanje"
+
+#: ../../setup/features.php
+msgid "Logo"
+msgstr "Logo"
+
+#: ../../setup/features.php
+msgid "Footer Menu"
+msgstr "Footer Menu"

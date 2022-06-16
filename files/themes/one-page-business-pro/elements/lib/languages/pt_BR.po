@@ -1,0 +1,1100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Elements Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-03-14 11:39:17 UTC\n"
+"PO-Revision-Date: 2014-04-15 11:57+0530\n"
+"Last-Translator: Surya <surya@cyberchimps.com>\n"
+"Language-Team: Portuguese, Brazil\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: ../../boxes.php ../../init.php ../../setup/features.php
+msgid "Boxes"
+msgstr "Caixas"
+
+#: ../../boxes.php
+msgid "Add new Box"
+msgstr "Adicionar nova categoria de caixas"
+
+#: ../../boxes.php
+msgid "Edit Box"
+msgstr "Caixa de edição"
+
+#: ../../boxes.php
+msgid "New Box"
+msgstr "Nova caixa"
+
+#: ../../boxes.php
+msgid "View Box"
+msgstr "Caixa de vista"
+
+#: ../../boxes.php
+msgid "Search Boxes"
+msgstr "Caixas de pesquisa"
+
+#: ../../boxes.php
+msgid "No Boxes found"
+msgstr "Sem caixas encontradas"
+
+#: ../../boxes.php
+msgid "No Boxes found in trash"
+msgstr "Sem caixas encontraram no lixo"
+
+#: ../../boxes.php
+msgctxt "taxonomy general name"
+msgid "Boxes Categories"
+msgstr "Categorias de caixas"
+
+#: ../../boxes.php
+msgctxt "taxonomy singular name"
+msgid "Boxes Catergory"
+msgstr "Caixas Catergory"
+
+#: ../../boxes.php
+msgid "All Boxes"
+msgstr "Todas as caixas"
+
+#: ../../boxes.php
+msgid "Boxes Category"
+msgstr "Categoria de caixas"
+
+#: ../../boxes.php
+msgid "Boxes Category:"
+msgstr "Categoria caixas:"
+
+#: ../../boxes.php
+msgid "Edit Boxes Category"
+msgstr "Editar Categoria caixas"
+
+#: ../../boxes.php
+msgid "Update Boxes Category"
+msgstr "Categoria de caixas de atualização"
+
+#: ../../boxes.php
+msgid "Add New Boxes Category"
+msgstr "Adicionar nova categoria de caixas"
+
+#: ../../boxes.php
+msgid "New Boxes Category Name"
+msgstr "Novo nome de categoria de caixas"
+
+#: ../../boxes.php
+msgid "Box Image"
+msgstr "Imagem de caixa"
+
+#: ../../boxes.php
+msgid "Box URL"
+msgstr "Caixa URL"
+
+#: ../../boxes.php
+msgid "Link the whole box"
+msgstr "Vincular a caixa inteira"
+
+#: ../../boxes.php
+msgid "Box Text"
+msgstr "Caixa de texto"
+
+#: ../../boxes.php
+msgid "Boxes Element"
+msgstr "Elemento de caixas"
+
+#: ../../boxes.php ../../carousel.php ../../portfolio.php ../../slider.php
+msgid "You need to create a Category"
+msgstr "Você precisa criar uma categoria"
+
+#: ../../boxes.php
+msgid "Number of boxes per row"
+msgstr "Número de caixas por linha"
+
+#: ../../boxes.php
+msgid "Boxes Options"
+msgstr "Opções de banner"
+
+#: ../../boxes.php
+msgid "%1$s Slider"
+msgstr "%1$ s Slider"
+
+#: ../../boxes.php
+msgid ""
+"The New Touch Friendly %1$s Slider now responds to any mobile touch device."
+msgstr ""
+"O novo toque amigável %1$ s Slider agora responde a qualquer dispositivo "
+"celular touch."
+
+#: ../../boxes.php
+msgid "Responsive Design"
+msgstr "Design responsivo"
+
+#: ../../boxes.php
+msgid ""
+"With %1$s and touch friendly responsive design you can now control your "
+"website on any device."
+msgstr ""
+"Com %1$ s e toque responsivo projeto amigável, agora você pode controlar seu "
+"site em qualquer dispositivo."
+
+#: ../../boxes.php
+msgid "Excellent Support"
+msgstr "Excelente suporte"
+
+#: ../../boxes.php
+msgid ""
+"Need help? Read the instructions and please visit our dedicated Pro Support "
+"Forum."
+msgstr ""
+"Precisa de ajuda? Leia as instruções e por favor, visite nosso fórum de "
+"suporte dedicado Pro."
+
+#: ../../breadcrumbs.php
+msgid "Home"
+msgstr "Casa"
+
+#: ../../breadcrumbs.php
+msgid "Archive for category "
+msgstr "Arquivo para a categoria "
+
+#: ../../breadcrumbs.php
+msgid "Search results for "
+msgstr "Resultados de busca para "
+
+#: ../../breadcrumbs.php
+msgid "Posts tagged "
+msgstr "Posts com a tag "
+
+#: ../../breadcrumbs.php
+msgid "Articles posted by "
+msgstr "Artigos postados por "
+
+#: ../../breadcrumbs.php
+msgid "Error 404"
+msgstr "Erro 404"
+
+#: ../../breadcrumbs.php ../../init.php
+msgid "Page"
+msgstr "Página de vídeo"
+
+#: ../../callout.php
+msgid "Callout Title"
+msgstr "Título do produto"
+
+#: ../../callout.php
+msgid "%1$s's Call Out Element"
+msgstr "%1$ s chamada elemento"
+
+#: ../../callout.php
+msgid "Callout Text"
+msgstr "Secção de texto explicativo"
+
+#: ../../callout.php
+msgid ""
+"Use %1$s's Call Out section on any page where you want to deliver an "
+"important message to your customer or client."
+msgstr ""
+"Use %1$ s chamar para fora a seção em qualquer página onde você quer "
+"entregar uma mensagem importante para o seu cliente ou cliente."
+
+#: ../../callout.php
+msgid "Callout Button"
+msgstr "Secção de texto explicativo"
+
+#: ../../callout.php
+msgid "Callout Button Text"
+msgstr "Secção de texto explicativo"
+
+#: ../../callout.php
+msgid "Click Here"
+msgstr "Clique aqui"
+
+#: ../../callout.php
+msgid "Callout Button URL"
+msgstr "Secção de texto explicativo"
+
+#: ../../callout.php
+msgid "Custom Callout Options"
+msgstr "Opções de Slide personalizados"
+
+#: ../../callout.php
+msgid "Custom Button Image"
+msgstr "Imagem de botão personalizado"
+
+#: ../../callout.php
+msgid "Custom Background Color"
+msgstr "Cor de plano de fundo personalizado"
+
+#: ../../callout.php
+msgid "Custom Title Color"
+msgstr "Cor título personalizado"
+
+#: ../../callout.php
+msgid "Custom Text Color"
+msgstr "Cor de texto personalizado"
+
+#: ../../callout.php
+msgid "Custom Button Color"
+msgstr "Cor do botão personalizado"
+
+#: ../../callout.php
+msgid "Custom Button Text Color"
+msgstr "Cor do texto de botão personalizado"
+
+#: ../../callout.php
+msgid "Callout Options"
+msgstr "Secção de texto explicativo"
+
+#: ../../carousel.php ../../init.php
+msgid "Carousel"
+msgstr "Carrossel"
+
+#: ../../carousel.php
+msgid "Carousel item"
+msgstr "Carrossel"
+
+#: ../../carousel.php
+msgid "Add new Carousel item"
+msgstr "Adicionar nova categoria de carrossel"
+
+#: ../../carousel.php
+msgid "Edit Carousel item"
+msgstr "Editar Categoria carrossel"
+
+#: ../../carousel.php
+msgid "New Carousel item"
+msgstr "Novo nome de categoria de carrossel"
+
+#: ../../carousel.php
+msgid "View Carousel item"
+msgstr "Novo nome de categoria de carrossel"
+
+#: ../../carousel.php
+msgid "Search Carousel items"
+msgstr "Carrossel de pesquisa"
+
+#: ../../carousel.php
+msgid "No Carousel items found"
+msgstr "Categoria de carrossel"
+
+#: ../../carousel.php
+msgid "No Carousel items found in trash"
+msgstr "Não há itens de carrossel encontrados no lixo"
+
+#: ../../carousel.php
+msgctxt "taxonomy general name"
+msgid "Carousel Categories"
+msgstr "Categorias de carrossel"
+
+#: ../../carousel.php
+msgctxt "taxonomy singular name"
+msgid "Carousel Catergory"
+msgstr "Carrossel Catergory"
+
+#: ../../carousel.php
+msgid "Search Carousel"
+msgstr "Carrossel de pesquisa"
+
+#: ../../carousel.php
+msgid "All Carousels"
+msgstr "Todos os carrosséis"
+
+#: ../../carousel.php
+msgid "Carousel Category"
+msgstr "Categoria de carrossel"
+
+#: ../../carousel.php
+msgid "Carousel Category:"
+msgstr "Categoria de carrossel:"
+
+#: ../../carousel.php
+msgid "Edit Carousel Category"
+msgstr "Editar Categoria carrossel"
+
+#: ../../carousel.php
+msgid "Update Carousel Category"
+msgstr "Categoria de carrossel de atualização"
+
+#: ../../carousel.php
+msgid "Add New Carousel Category"
+msgstr "Adicionar nova categoria de carrossel"
+
+#: ../../carousel.php
+msgid "New Carousel Category Name"
+msgstr "Novo nome de categoria de carrossel"
+
+#: ../../carousel.php
+msgid "Featured Post Image"
+msgstr "Featured Post imagem"
+
+#: ../../carousel.php
+msgid "Featured Post URL"
+msgstr "Featured Post URL"
+
+#: ../../carousel.php ../../portfolio.php
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: ../../carousel.php
+msgid "Reorder Name"
+msgstr "Reordenar o nome"
+
+#: ../../carousel.php
+msgid "Featured Post Carousel"
+msgstr "Featured Post carrossel opções"
+
+#: ../../carousel.php
+msgid "Carousel Options"
+msgstr "Featured Post carrossel opções"
+
+#: ../../htmlbox.php
+msgid "Custom HTML"
+msgstr "Custom CSS"
+
+#: ../../htmlbox.php
+msgid "Enter your custom html here"
+msgstr "Digite seu html personalizado aqui"
+
+#: ../../htmlbox.php
+msgid "HTML Box Options"
+msgstr "Caixa HTML"
+
+#: ../../init.php
+msgid "Callout Section"
+msgstr "Secção de texto explicativo"
+
+#: ../../init.php
+msgid "HTML Box"
+msgstr "Caixa HTML"
+
+#: ../../init.php ../../setup/features.php
+msgid "CyberChimps Slider"
+msgstr "CyberChimps deslizante"
+
+#: ../../init.php
+msgid "Magazine"
+msgstr "Revista"
+
+#: ../../init.php ../../portfolio.php
+msgid "Portfolio"
+msgstr "Portfólio"
+
+#: ../../init.php ../../setup/features.php
+msgid "Post Page"
+msgstr "Página de postagem"
+
+#: ../../init.php ../../product.php
+msgid "Product"
+msgstr "Produto"
+
+#: ../../init.php
+msgid "Recent Posts"
+msgstr "Posts recentes"
+
+#: ../../init.php
+msgid "Twitter Bar"
+msgstr "Twitter Bar"
+
+#: ../../init.php
+msgid "Widgets"
+msgstr "Widgets"
+
+#: ../../init.php ../../setup/features.php
+msgid "Breadcrumbs"
+msgstr "Farinha de rosca"
+
+#: ../../magazine.php
+msgid "Edit"
+msgstr "Caixa de edição"
+
+#: ../../magazine.php
+msgid "Magazine Options"
+msgstr "Opções de banner"
+
+#: ../../magazine.php
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: ../../magazine.php
+msgid "Meta Data"
+msgstr "Meta dados"
+
+#: ../../magazine.php
+msgid "Featured Image"
+msgstr "Featured Post imagem"
+
+#: ../../magazine.php
+msgid "Category"
+msgstr "Categoria de caixas"
+
+#: ../../magazine.php
+msgid "Featured Excerpt Length"
+msgstr "Featured Post URL"
+
+#: ../../magazine.php
+msgid "Number of Columns"
+msgstr "Número de Tweets"
+
+#: ../../magazine.php
+msgid "Number of Rows"
+msgstr "Número de Tweets"
+
+#: ../../magazine.php
+msgid "Wide Posts Below Magazine"
+msgstr "Ampla Posts abaixo Magazine"
+
+#: ../../magazine.php
+msgid "Wide Post Excerpt Length"
+msgstr "Comprimento do trecho de grande Post"
+
+#: ../../magazine.php
+msgid "Number of Wide Posts"
+msgstr "Featured Post URL"
+
+#: ../../magazine.php ../../recent-posts.php
+msgid "All"
+msgstr "Todos os"
+
+#: ../../magazine.php
+msgid "magazine Options"
+msgstr "Opções de banner"
+
+#: ../../parallax.php
+msgid "Parallax"
+msgstr "Paralaxe"
+
+#: ../../parallax.php
+msgid "Parallax image"
+msgstr "Imagem de paralaxe"
+
+#: ../../parallax.php
+msgid "Parallax speed"
+msgstr "Velocidade de paralaxe"
+
+#: ../../parallax.php
+msgid ""
+"Set the background image at Appearance > Background to get parallax effect "
+"on whole body."
+msgstr ""
+"Definir a imagem de fundo na aparência > fundo para obter o efeito de "
+"paralaxe do corpo todo."
+
+#: ../../parallax.php
+msgid "Background scrolling speed"
+msgstr "Fundo a velocidade de rolagem"
+
+#: ../../parallax.php
+msgid "Background image for parallax"
+msgstr "Imagem de fundo para a paralaxe"
+
+#: ../../parallax.php ../../setup/features.php
+msgid "Enter URL or upload file"
+msgstr "Digite a URL ou fazer upload de arquivo"
+
+#: ../../portfolio.php ../../recent-posts.php
+msgid "Images"
+msgstr "Imagens"
+
+#: ../../portfolio.php
+msgid "Add new Image"
+msgstr "Imagem deslizante"
+
+#: ../../portfolio.php
+msgid "Edit Image"
+msgstr "Imagem"
+
+#: ../../portfolio.php
+msgid "New Image"
+msgstr "Imagem"
+
+#: ../../portfolio.php
+msgid "View Image"
+msgstr "Imagem deslizante"
+
+#: ../../portfolio.php
+msgid "Search Images"
+msgstr "Caixas de pesquisa"
+
+#: ../../portfolio.php
+msgid "No Images found"
+msgstr "Não há imagens encontradas"
+
+#: ../../portfolio.php
+msgid "No Images found in trash"
+msgstr "Nenhuma imagem encontrada no lixo"
+
+#: ../../portfolio.php
+msgctxt "taxonomy general name"
+msgid "Portfolio Categories"
+msgstr "Categorias de portfólio"
+
+#: ../../portfolio.php
+msgctxt "taxonomy singular name"
+msgid "Portfolio Catergory"
+msgstr "Portfólio Catergory"
+
+#: ../../portfolio.php
+msgid "Search Portfolio"
+msgstr "Pesquisar portfólio"
+
+#: ../../portfolio.php
+msgid "All Portfolios"
+msgstr "Todas as carteiras"
+
+#: ../../portfolio.php
+msgid "Portfolio Category"
+msgstr "Categoria de carteira"
+
+#: ../../portfolio.php
+msgid "Portfolio Category:"
+msgstr "Categoria do portfólio:"
+
+#: ../../portfolio.php
+msgid "Edit Portfolio Category"
+msgstr "Editar Categoria Portfolio"
+
+#: ../../portfolio.php
+msgid "Update Portfolio Category"
+msgstr "Categoria de carteira de atualização"
+
+#: ../../portfolio.php
+msgid "Add New Portfolio Category"
+msgstr "Adicionar nova categoria de portfólio"
+
+#: ../../portfolio.php
+msgid "New Portfolio Category Name"
+msgstr "Novo nome de categoria de carteira"
+
+#: ../../portfolio.php
+msgid "Portfolio Image"
+msgstr "Imagem de portfólio"
+
+#: ../../portfolio.php ../../slider.php
+msgid "Caption"
+msgstr "Legenda"
+
+#: ../../portfolio.php
+msgid "Custom Portfolio URL"
+msgstr "Portfólio personalizado URL"
+
+#: ../../portfolio.php
+msgid "URL"
+msgstr "URL"
+
+#: ../../portfolio.php
+msgid "Portfolio Element"
+msgstr "Elemento de portfólio"
+
+#: ../../portfolio.php
+msgid "Images per row"
+msgstr "Imagens"
+
+#: ../../portfolio.php
+msgid "Two"
+msgstr "Dois"
+
+#: ../../portfolio.php
+msgid "Three"
+msgstr "Três"
+
+#: ../../portfolio.php
+msgid "Four"
+msgstr "Quatro"
+
+#: ../../portfolio.php
+msgid "Portfolio Title"
+msgstr "Elemento de portfólio"
+
+#: ../../portfolio.php ../../recent-posts.php ../../slider.php
+msgid "Title"
+msgstr "Título"
+
+#: ../../portfolio.php
+msgid "Portfolio Options"
+msgstr "Categorias de portfólio"
+
+#: ../../product.php
+msgid "Product Layout"
+msgstr "Layout de produto"
+
+#: ../../product.php
+msgid "Text Left"
+msgstr "Texto à esquerda"
+
+#: ../../product.php
+msgid "Text Right"
+msgstr "Texto direito"
+
+#: ../../product.php
+msgid "Product Title"
+msgstr "Título do produto"
+
+#: ../../product.php
+msgid "Product Text"
+msgstr "Texto do produto"
+
+#: ../../product.php
+msgid "Media Type"
+msgstr "Tipo de mídia"
+
+#: ../../product.php
+msgid "Image"
+msgstr "Imagem"
+
+#: ../../product.php
+msgid "Video"
+msgstr "Vídeo"
+
+#: ../../product.php
+msgid "Product Image URL"
+msgstr "URL da imagem de produto"
+
+#: ../../product.php
+msgid "Product Video Embed"
+msgstr "Incorporar vídeo de produto"
+
+#: ../../product.php
+msgid "Product Button Type"
+msgstr "Texto de Link do produto"
+
+#: ../../product.php
+msgid "No button"
+msgstr "Nenhum botão"
+
+#: ../../product.php
+msgid "Button"
+msgstr "Botão"
+
+#: ../../product.php
+msgid "Button Image"
+msgstr "Imagem de caixa"
+
+#: ../../product.php
+msgid "Product Button URL"
+msgstr "URL do produto"
+
+#: ../../product.php
+msgid "Product Button Text"
+msgstr "Texto de Link do produto"
+
+#: ../../product.php
+msgid "Buy Now"
+msgstr "Compre agora"
+
+#: ../../product.php
+msgid "Product Image"
+msgstr "URL da imagem de produto"
+
+#: ../../product.php
+msgid "Product URL"
+msgstr "URL do produto"
+
+#: ../../product.php
+msgid "Product Link Text"
+msgstr "Texto de Link do produto"
+
+#: ../../product.php
+msgid "Product Button Image"
+msgstr "URL da imagem de produto"
+
+#: ../../product.php
+msgid "Product Button Image URL"
+msgstr "URL da imagem de produto"
+
+#: ../../product.php
+msgid "Product Options"
+msgstr "Link do produto"
+
+#: ../../recent-posts.php
+msgid "Recent Posts Title"
+msgstr "Posts recentes"
+
+#: ../../recent-posts.php
+msgid "Post Category"
+msgstr "Categoria de caixas"
+
+#: ../../recent-posts.php
+msgid "Recent Posts Options"
+msgstr "Posts recentes"
+
+#: ../../slider.php
+msgid "Slides"
+msgstr "Slides"
+
+#: ../../slider.php
+msgid "Add new Slide"
+msgstr "Adicionar nova categoria Slide"
+
+#: ../../slider.php
+msgid "Edit Slide"
+msgstr "Editar Categoria Slide"
+
+#: ../../slider.php
+msgid "New Slide"
+msgstr "Slides"
+
+#: ../../slider.php
+msgid "View Slide"
+msgstr "iFeature Slider"
+
+#: ../../slider.php
+msgid "Search Slides"
+msgstr "Slides de pesquisa"
+
+#: ../../slider.php
+msgid "No Slides found"
+msgstr "Não há Slides encontrados"
+
+#: ../../slider.php
+msgid "No Slides found in trash"
+msgstr "Não há Slides encontraram no lixo"
+
+#: ../../slider.php
+msgctxt "taxonomy general name"
+msgid "Slide Categories"
+msgstr "Categorias de slide"
+
+#: ../../slider.php
+msgctxt "taxonomy singular name"
+msgid "Slide Catergory"
+msgstr "Slide Catergory"
+
+#: ../../slider.php
+msgid "All Slides"
+msgstr "Todos os Slides"
+
+#: ../../slider.php
+msgid "Slide Category"
+msgstr "Categoria slide"
+
+#: ../../slider.php
+msgid "Slide Category:"
+msgstr "Categoria slide:"
+
+#: ../../slider.php
+msgid "Edit Slide Category"
+msgstr "Editar Categoria Slide"
+
+#: ../../slider.php
+msgid "Update Slide Category"
+msgstr "Categoria Slide de atualização"
+
+#: ../../slider.php
+msgid "Add New Slide Category"
+msgstr "Adicionar nova categoria Slide"
+
+#: ../../slider.php
+msgid "New Slide Category Name"
+msgstr "Novo nome de categoria Slide"
+
+#: ../../slider.php
+msgid "Slider Image"
+msgstr "Imagem deslizante"
+
+#: ../../slider.php
+msgid "Slider Caption"
+msgstr "Controle deslizante legenda"
+
+#: ../../slider.php
+msgid "Custom Slide Link"
+msgstr "Link de slides personalizada"
+
+#: ../../slider.php
+msgid "Reorder"
+msgstr "Reordenar o nome"
+
+#: ../../slider.php
+msgid "Custom Feature Slides"
+msgstr "Slides de recurso personalizado"
+
+#: ../../slider.php
+msgid "Slider Size"
+msgstr "Imagem deslizante"
+
+#: ../../slider.php
+msgid "Full"
+msgstr "Completo"
+
+#: ../../slider.php
+msgid "Half"
+msgstr "Metade"
+
+#: ../../slider.php
+msgid "Slider Type"
+msgstr "Imagem deslizante"
+
+#: ../../slider.php
+msgid "Custom"
+msgstr "Custom CSS"
+
+#: ../../slider.php
+msgid "Posts"
+msgstr "Posts"
+
+#: ../../slider.php
+msgid "Post Categories"
+msgstr "Categorias de caixas"
+
+#: ../../slider.php
+msgid "Custom Categories"
+msgstr "Categorias de carrossel"
+
+#: ../../slider.php
+msgid "Number of Featured Posts"
+msgstr "Featured Post URL"
+
+#: ../../slider.php
+msgid "Slider Height"
+msgstr "Imagem deslizante"
+
+#: ../../slider.php
+msgid "Slider Speed"
+msgstr "Imagem deslizante"
+
+#: ../../slider.php
+msgid "Slider Arrows"
+msgstr "Slides"
+
+#: ../../slider.php
+msgid "CyberChimps Slider Options"
+msgstr "Opções de controle deslizante de CyberChimps"
+
+#: ../../twitter-bar.php
+msgid "Error retrieving tweets"
+msgstr "Erro ao recuperar tweets"
+
+#: ../../twitter-bar.php
+msgid "%1$s followers"
+msgstr "seguidores de s $ %1"
+
+#: ../../twitter-bar.php
+msgid "%s ago"
+msgstr "%s atrás"
+
+#: ../../twitter-bar.php
+msgid "No tweets to display"
+msgstr "Sem tweets para exibir"
+
+#: ../../twitter-bar.php
+msgid "Twitter API Options"
+msgstr "Opções de API do Twitter"
+
+#: ../../twitter-bar.php
+msgid "Edit Twitter API"
+msgstr "Editar Twitter API"
+
+#: ../../twitter-bar.php
+msgid "Create your Twitter App here"
+msgstr "Criar seu Twitter App aqui"
+
+#: ../../twitter-bar.php
+msgid "Complete all parts of the form and create your application"
+msgstr "Completar todas as partes do formulário e criar seu aplicativo"
+
+#: ../../twitter-bar.php
+msgid "On the next page click on the button Create my access token"
+msgstr "Na próxima página, clique no botão criar meu token de acesso"
+
+#: ../../twitter-bar.php
+msgid "Now take the details and fill out the form below"
+msgstr "Agora pegue os detalhes e preencha o formulário abaixo"
+
+#: ../../twitter-bar.php
+msgid "Save your options"
+msgstr "Salvar suas opções"
+
+#: ../../twitter-bar.php
+msgid "Create a Twitter App"
+msgstr "Criar um aplicativo de Twitter"
+
+#: ../../twitter-bar.php
+msgid "Consumer Key"
+msgstr "Consumidor chave"
+
+#: ../../twitter-bar.php
+msgid "Consumer Secret"
+msgstr "Segredo do consumidor"
+
+#: ../../twitter-bar.php
+msgid "Access Token"
+msgstr "Token de acesso"
+
+#: ../../twitter-bar.php
+msgid "Access Token Secret"
+msgstr "Segredo do símbolo de acesso"
+
+#: ../../twitter-bar.php
+msgid "Twitter Handle"
+msgstr "Identificador do Twitter"
+
+#: ../../twitter-bar.php
+msgid "Number Of Tweets"
+msgstr "Número de Tweets"
+
+#: ../../twitter-bar.php
+msgid ""
+"Including replies, if replies are set to off then the number shown could be "
+"less"
+msgstr ""
+"Incluindo respostas, se respostas são definidas para fora, em seguida, o "
+"número mostrado poderia ser menos"
+
+#: ../../twitter-bar.php
+msgid "Use your Twitter Image"
+msgstr "Use sua imagem do Twitter"
+
+#: ../../twitter-bar.php
+msgid "Show the number of followers"
+msgstr "Mostrar o número de seguidores"
+
+#: ../../twitter-bar.php
+msgid "Include Replies"
+msgstr "Incluem respostas"
+
+#: ../../twitter-bar.php
+msgid "Include Retweets"
+msgstr "Incluem Retweets"
+
+#: ../../twitter-bar.php
+msgid "Show a different Twitter account"
+msgstr "Mostrar uma conta diferente do Twitter"
+
+#: ../../twitter-bar.php
+msgid "Leaving this off will show the default account in your theme options"
+msgstr "Deixar isso fora mostrará a conta padrão em suas opções de tema"
+
+#: ../../twitter-bar.php
+msgid "Twitter Options"
+msgstr "Opções de API do Twitter"
+
+#: ../../twitter-bar.php
+msgid "Error"
+msgstr "Erro 404"
+
+#: ../../widgets.php
+msgid "Box Left"
+msgstr "Caixa à esquerda"
+
+#: ../../widgets.php
+msgid "This is the left widget of the three-box section"
+msgstr "Este é o widget à esquerda da seção três-caixa"
+
+#: ../../widgets.php
+msgid "Box Middle"
+msgstr "Caixa média"
+
+#: ../../widgets.php
+msgid "This is the middle widget of the three-box section"
+msgstr "Este é o widget médio da seção três-caixa"
+
+#: ../../widgets.php
+msgid "Box Right"
+msgstr "Caixa direita"
+
+#: ../../widgets.php
+msgid "This is the right widget of the three-box section"
+msgstr "Esta é a razão widget da seção três-caixa"
+
+#: ../../widgets.php
+msgid "This is the box left widgetized area."
+msgstr "Esta é a área de widgetized à caixa da esquerda."
+
+#: ../../widgets.php
+msgid "This is the box middle widgetized area."
+msgstr "Esta é a área widgetized média de caixa."
+
+#: ../../widgets.php
+msgid "This is the box right widgetized area."
+msgstr "Esta é a área direita widgetized caixa."
+
+#: ../../setup/features.php
+msgid "Import/Export"
+msgstr "Importação/exportação"
+
+#: ../../setup/features.php
+msgid "Custom CSS"
+msgstr "Custom CSS"
+
+#: ../../setup/features.php
+msgid "Contact Element"
+msgstr "Elemento de contacto"
+
+#: ../../setup/features.php
+msgid "Banner Options"
+msgstr "Opções de banner"
+
+#: ../../setup/features.php
+msgid "Import / Export"
+msgstr "Importação / exportação"
+
+#: ../../setup/features.php
+msgid "Details"
+msgstr "Detalhes"
+
+#: ../../setup/features.php
+msgid "Banner Image"
+msgstr "Imagem do banner"
+
+#: ../../setup/features.php
+msgid "Banner URL"
+msgstr "URL do banner"
+
+#: ../../setup/features.php
+msgid "Cyberchimps Link"
+msgstr "Cyberchimps Link"
+
+#: ../../setup/features.php
+msgid "Footer Scripts"
+msgstr "Scripts de rodapé"
+
+#: ../../setup/features.php
+msgid "Please add script tags"
+msgstr "Por favor, adicione tags de script"
+
+#: ../../setup/features.php
+msgid "Export Settings"
+msgstr "Configurações de exportação"
+
+#: ../../setup/features.php
+msgid "Import Settings"
+msgstr "Configurações de importação"
+
+#: ../../setup/features.php
+msgid "Searchbar text"
+msgstr "Searchbar texto"
+
+#: ../../setup/features.php
+msgid "Banner"
+msgstr "Banner"
+
+#: ../../setup/features.php
+msgid "Description + Icons"
+msgstr "Descrição + ícones"
+
+#: ../../setup/features.php
+msgid "Logo + Contact"
+msgstr "Logotipo + contato"
+
+#: ../../setup/features.php
+msgid "Logo + Description"
+msgstr "Logotipo + descrição"
+
+#: ../../setup/features.php
+msgid "Logo + Icons"
+msgstr "Logotipo + ícones"
+
+#: ../../setup/features.php
+msgid "Logo + Login"
+msgstr "Logotipo + Login"
+
+#: ../../setup/features.php
+msgid "Logo + Search"
+msgstr "Logotipo + Search"
+
+#: ../../setup/features.php
+msgid "Logo"
+msgstr "Logotipo"
+
+#: ../../setup/features.php
+msgid "Footer Menu"
+msgstr "Menu de rodapé"

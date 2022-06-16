@@ -1,0 +1,939 @@
+/*
+Theme Name: One Page Business Pro
+Theme URI: http://cyberchimps.com/store/one-page-business-pro/
+Author: CyberChimps
+Author URI: http://www.cyberchimps.com/
+Description: This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, a responsive timeline, and a working PHP contact form.
+Version: 1.3
+Text Domain: one-page-business-pro
+Tags: custom-logo, custom-background, custom-colors, theme-options
+License: GNU General Public License
+License URI: http://www.opensource.org/licenses/gpl-license.php GPL v3.0 (or later)
+-------------------------------------------------------------- */
+
+
+body, html {
+	
+	text-rendering: optimizeLegibility !important;
+	-webkit-font-smoothing: antialiased !important;
+	
+        position: relative;	
+}
+h1 {
+	font-weight: 700;
+}
+h1 strong {
+	font-weight: 900;
+}
+h2 {
+	font-size: 36px;
+	margin: 0;
+}
+h3 {
+	font-size: 16px;
+	font-weight: 700;
+}
+h5 {
+	text-transform: uppercase;
+	font-weight: 700;
+	line-height: 20px;
+}
+p {
+	
+	
+}
+a {
+	color: #5b777f;
+	transition: all 0.5s;
+}
+a:hover, a:focus {
+	text-decoration: none;
+	color: #0B86D2;
+}
+.img-centered {
+	margin: 0 auto;
+}
+ul, ol {
+	list-style: none;
+}
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+.clearfix {
+	display: inline-block;
+}
+* html .clearfix {
+	height: 1%;
+}
+.clearfix {
+	display: block;
+}
+#preloader {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background: #0B86BB;
+	z-index: 99999;
+	height: 100%;
+}
+#status {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	width: 64px;
+	height: 64px;
+	margin: -32px 0 0 -32px;
+	padding: 0;
+}
+.section-title {
+	padding: 30px 0;
+}
+.section-title h2 {
+	font-weight: 400;
+	font-size: 36px;
+	margin-bottom: 26px;
+}
+hr {
+	height: 3px;
+	width: 60px;
+	position: relative;
+	background: #0b86d2;
+	border: 0;
+	margin-bottom: 30px;
+}
+/* Navigation */
+#menu {
+	padding: 20px;
+	transition: all 0.8s;
+}
+#menu.navbar-default {
+	background-color: #000;
+	border-color: rgba(231, 231, 231, 0);
+}
+#menu a.navbar-brand {
+	text-transform: uppercase;
+	font-size: 22px;
+	color: #fff;
+	font-weight: 700;
+	letter-spacing: 1px;
+}
+#menu a.navbar-brand i.fa {
+	color: #0b86d2;
+}
+#menu.navbar-default .navbar-nav > li > a {
+	text-transform: uppercase;
+	
+	font-weight:bold;
+	font-size: 12px;
+	letter-spacing: 1px;
+}
+#menu.navbar-default .navbar-nav > li > a:hover {
+	
+}
+.on {
+	background-color: #032731 !important;
+	padding: 0 !important;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+	color: #fff !important;
+	background-color: transparent;
+}
+.navbar-toggle {
+	border-radius: 0;
+	margin-top: 15px;
+margin-right: 15px;
+margin-bottom: 12px;
+background-image: none;
+border: 2px solid transparent;
+border-radius: 4px;
+}
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+	background-color: #f3ca27;
+	border-color: #f3ca27;
+}
+.navbar-default .navbar-toggle:hover>.icon-bar {
+	background-color: #FFF;
+}
+
+
+
+.navbar-default .navbar-collapse {
+  border-color: rgba(255, 255, 255, 0.02); }
+
+.navbar-default .navbar-toggle:focus {
+  border-color: #337AB7;
+  background-color: #337AB7; }
+
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #fff; }
+
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+  background-color: #fed136; }
+
+.navbar-default .nav li a {
+  text-transform: uppercase;
+
+  font-weight: 400;
+  letter-spacing: 1px;
+  color: #fff; }
+
+.navbar-default .nav li a:hover,
+.navbar-default .nav li a:focus {
+  outline: 0;
+  color: #fed136; }
+
+.navbar-default .navbar-nav > .active > a {
+  -webkit-border-radiu;
+ }
+
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  color: #fff;
+   }
+
+@media (min-width: 768px) {
+  .navbar-default {
+    padding: 25px 0;
+    border: 0;
+    background-color: transparent;
+    -webkit-transition: padding .3s;
+    -moz-transition: padding .3s;
+    -o-transition: padding .3s;
+    transition: padding .3s; }
+  .navbar-default .navbar-brand {
+    font-size: 2em;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    -o-transition: all .3s;
+    transition: all .3s; }
+  .navbar-default .navbar-nav > .active > a {
+    -webkit-border-radius: 3px;
+       -moz-border-radius: 3px;
+            border-radius: 3px; }
+  .navbar-default.navbar-shrink {
+    padding: 10px 0;
+    background-color: #222; }
+  .navbar-default.navbar-shrink .navbar-brand {
+    font-size: 1.5em; } }s: 0;
+     -moz-border-radius: 0;
+          border-radius: 0;
+  color: #fff
+
+/* Home Style */
+
+#home
+{
+}
+header {
+	background:no-repeat bottom center;
+	background-size: cover;
+	color: #d9e0e2;
+	position: relative;
+	height: auto;
+
+  background-attachment: scroll;
+  background-position: center center;
+  background-repeat: none;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+header p {
+	color: #d9e0e2;
+	font-size: 20px;
+	margin-bottom: 80px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+}
+.intro-text {
+	position: relative;
+	padding-top: 15%;
+	padding-right: 0;
+	padding-left: 0;
+	padding-bottom: 15%;
+}
+.intro-text h1 {
+	font-size: 70px;
+	text-transform: uppercase;
+	color: #d9e0e2;
+	letter-spacing: 2px;
+	font-weight:bold;
+}
+.color {
+	color: #789e08;
+}
+.btn-default {
+	color: #294d57;
+	font-family: 'Roboto', sans-serif;
+	background-color: #ffffff;
+	border: 0;
+	margin: 0 8px;
+	font-size: 18px;
+	transition: all 0.5s;
+}
+.btn-default:hover, .btn-default:focus, .btn-default.focus, .btn-default:active, .btn-default.active {
+	background-color: #0b86d2;
+}
+
+
+/* Services Section */
+#services-section {
+	padding: 4% 0;
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#032731+0,032e3a+20,032e3a+100,032731+100 */
+	background: #000; /* Old browsers */
+	color:#fff;
+}
+
+#services-section h4 {
+	color: #096597;
+	text-transform: uppercase;
+}
+.space {
+	margin-top: 40px;
+}
+#services-section i.fa {
+	font-size: 40px;
+    border: 0;
+    width: 100px;
+    height: 100px;
+    padding: 27px 25px;
+      border: 3px solid #0a6698;
+    margin-bottom: 6px;
+    border-radius: 100%;
+     -webkit-border-radius: 100%;
+     -moz-border-radius: 100%;
+    color: #096597;
+    transition: all 0.5s;
+	-webkit-transition: all 0.5s;
+	-moz-transition: all 0.5s;
+}
+}
+#services-section .service:hover>i.fa {
+	background: #0b3540;
+}
+/* Gallery Section 
+==============================*/
+#works-section {
+	
+	padding: 4% 0;
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#c1a618+0,f1c40f+25,f1c40f+75,c1a618+100 */
+	 /* Old browsers */
+	/*background: -moz-linear-gradient(top, rgba(193,166,24,1) 0%, rgba(241,196,15,1) 25%, rgba(241,196,15,1) 75%, rgba(193,166,24,1) 100%);*/ /* FF3.6-15 */
+	/*background: -webkit-linear-gradient(top, rgba(193,166,24,1) 0%, rgba(241,196,15,1) 25%, rgba(241,196,15,1) 75%, rgba(193,166,24,1) 100%);*/ /* Chrome10-25,Safari5.1-6 */
+	/*background: linear-gradient(to bottom, rgba(193,166,24,1) 0%, rgba(241,196,15,1) 25%, rgba(241,196,15,1) 75%, rgba(193,166,24,1) 100%); *//* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fff', endColorstr='#c1a618', GradientType=0 ); /* IE6-9 */
+}
+#works-section i.fa {
+	font-size: 30px;
+	padding: 5px;
+	color: #f1c40f;
+}
+.categories {
+	padding-bottom: 30px;
+	text-align: center;
+}
+#works-section hr {
+	background: #0b86d2;
+}
+ul.cat li {
+	display: inline-block;
+}
+ol.type li {
+	display: inline-block;
+	margin-left: 20px;
+}
+ol.type li a {
+	color: #51633d;
+	border: 1px solid #0b86d2;
+	padding: 8px 16px;
+	border-radius: 3px;
+}
+ol.type li a.active {
+	background: #0b86d2;
+}
+ol.type li a:hover {
+	background: #0b86d2;
+
+}
+.isotope-item {
+	z-index: 2
+}
+.isotope-hidden.isotope-item {
+	z-index: 1
+}
+.isotope, .isotope .isotope-item {
+	/* change duration value to whatever you like */
+	-webkit-transition-duration: 0.8s;
+	-moz-transition-duration: 0.8s;
+	transition-duration: 0.8s;
+}
+.isotope-item {
+	margin-right: -1px;
+	-webkit-backface-visibility: hidden;
+	backface-visibility: hidden;
+}
+.isotope {
+	-webkit-backface-visibility: hidden;
+	backface-visibility: hidden;
+	-webkit-transition-property: height, width;
+	-moz-transition-property: height, width;
+	transition-property: height, width;
+}
+.isotope .isotope-item {
+	-webkit-backface-visibility: hidden;
+	backface-visibility: hidden;
+	-webkit-transition-property: -webkit-transform, opacity;
+	-moz-transition-property: -moz-transform, opacity;
+	transition-property: transform, opacity;
+}
+.portfolio-item {
+	margin-bottom: 30px;
+}
+.portfolio-item .hover-bg {
+	height: auto;
+	overflow: hidden;
+	position: relative;
+}
+.hover-bg .hover-text {
+	position: absolute;
+	text-align: center;
+	margin: 0 auto;
+	color: #c0cbce;
+	background: #000;
+	padding: 25% 0;
+	height: 100%;
+	width: 100%;
+	opacity: 0;
+	transition: all 0.5s;
+	-webkit-transition: all 0.5s;
+	-moz-transition: all 0.5s;
+}
+.hover-bg .hover-text>h4 {
+	opacity: 0;
+	-webkit-transform: translateY(100%);
+	transform: translateY(100%);
+	transition: all 0.3s;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	font-size: 20px;
+}
+.hover-bg:hover .hover-text>h4 {
+	opacity: 1;
+	-webkit-backface-visibility: hidden;
+	-webkit-transform: translateY(0);
+	transform: translateY(0);
+}
+.hover-bg .hover-text>i {
+	opacity: 0;
+	-webkit-transform: translateY(0);
+	transform: translateY(0);
+	transition: all 0.3s;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+}
+.hover-bg:hover .hover-text>i {
+	opacity: 1;
+	-webkit-backface-visibility: hidden;
+	-webkit-transform: translateY(100%);
+	transform: translateY(100%);
+}
+.hover-bg:hover .hover-text {
+	opacity: 1;
+}
+.portfolio-modal .modal-content {
+	padding: 100px 0;
+	min-height: 100%;
+	border: 0;
+	border-radius: 0;
+	text-align: center;
+	background-clip: border-box;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+	color:#fff;
+	background: #0B86D2;
+	width: 102%;
+}
+.portfolio-modal .modal-content h2 {
+	margin-bottom: 15px;
+	font-size: 2.5em;
+}
+.portfolio-modal .modal-content p {
+	margin-bottom: 30px;
+}
+.portfolio-modal .modal-content p.item-intro {
+	margin: 10px 0 30px;
+	font-size: 14px;
+	font-style: italic;
+}
+.portfolio-modal .modal-content ul.list-inline {
+	margin-top: 0;
+	margin-bottom: 30px;
+}
+.portfolio-modal .modal-content img {
+	margin-bottom: 30px;
+}
+.portfolio-modal .close-modal {
+	position: absolute;
+	top: 25px;
+	right: 25px;
+	width: 75px;
+	height: 75px;
+	background-color: transparent;
+	cursor: pointer;
+}
+.portfolio-modal .close-modal:hover {
+	opacity: .3;
+}
+.portfolio-modal .close-modal .lr {
+	z-index: 1051;
+	width: 1px;
+	height: 75px;
+	margin-left: 35px;
+	background-color: #222;
+	-webkit-transform: rotate(45deg);
+	-ms-transform: rotate(45deg);
+	transform: rotate(45deg);
+}
+.portfolio-modal .close-modal .lr .rl {
+	z-index: 1052;
+	width: 1px;
+	height: 75px;
+	background-color: #222;
+	-webkit-transform: rotate(90deg);
+	-ms-transform: rotate(90deg);
+	transform: rotate(90deg);
+}
+.portfolio-modal .btn-primary {
+	color: #fff;
+	background-color: #000;
+	border-color: #1d434e;
+}
+.portfolio-modal .btn-primary:hover, .portfolio-modal .btn-primary:focus, .portfolio-modal .btn-primary.focus, .portfolio-modal .btn-primary:active, .portfolio-modal .btn-primary.active {
+	color: #000;
+	background-color: #aaa;
+	border-color: #032e3a;
+}
+/* About Section */
+#about-section {
+	
+	padding: 4% 0;
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#032731+0,032e3a+20,032e3a+100,032731+100
+	background: rgb(3,39,49); Old browsers 
+	background: -moz-linear-gradient(top, rgba(3,39,49,1) 0%, rgba(3,46,58,1) 20%, rgba(3,46,58,1) 100%, rgba(3,39,49,1) 100%);  FF3.6-15 
+	background: -webkit-linear-gradient(top, rgba(3,39,49,1) 0%, rgba(3,46,58,1) 20%, rgba(3,46,58,1) 100%, rgba(3,39,49,1) 100%); /* Chrome10-25,Safari5.1-6 
+	background: linear-gradient(to bottom, rgba(3,39,49,1) 0%, rgba(3,46,58,1) 20%, rgba(3,46,58,1) 100%, rgba(3,39,49,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#032731', endColorstr='#032731', GradientType=0 ); /* IE6-9 */
+
+}
+#about-section h4 {
+	color: #81969c;
+	font-size: 20px;
+}
+#about-section li {
+	margin-bottom: 6px;
+	list-style: none;
+	padding: 0;
+}
+#about-section li:before {
+	content: "✓";
+	color: #f3ca27;
+	padding-right: 5px;
+}
+/* Team Section */
+#team-section {
+	
+	padding: 4% 0;
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#c1a618+0,f1c40f+25,f1c40f+75,c1a618+100 */
+	background: rgb(249, 248, 243); /* Old browsers */
+	color:#000;
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='rgb(249, 248, 243)', endColorstr='#c1a618', GradientType=0 ); /* IE6-9 */
+}
+#team-section hr {
+	background: #0b86d2;
+}
+#team-section .item {
+	padding: 0;
+	margin: 15px;
+	text-align: center;
+}
+img.img-circle.team-img {
+	width: 120px;
+	height: 120px;
+	border: 4px solid transparent;
+	transition: all 0.5s;
+	    border: 7px solid white;
+    box-shadow: 1px 2px 2px grey;
+}
+#team-section .thumbnail {
+	background: transparent;
+	border: 0;
+}
+#team-section .thumbnail .caption {
+	padding: 9px;
+	color: #1c424d;
+}
+#team-section i.fa {
+	font-size: 16px;
+	color: #000;
+	margin-top: 10px;
+}
+#team-section i.fa:hover {
+	color: #0b86d2;
+}
+.owl-theme .owl-controls .owl-page span {
+	display: block;
+	width: 10px;
+	height: 10px;
+	margin: 5px 7px;
+	filter: Alpha(Opacity=1);
+	opacity: 1;
+	-webkit-border-radius: 0;
+	-moz-border-radius: 20px;
+	border-radius: 50%;
+	background: #0b86d2;
+	transition: all 0.5s;
+}
+.owl-theme .owl-controls .owl-page.active span, .owl-theme .owl-controls.clickable .owl-page:hover span {
+	filter: Alpha(Opacity=100);
+	opacity: 1;
+	background: #0b86d2;
+}
+.owl-theme .owl-controls .owl-page.active span {
+	background: #0b86d2;
+}
+/* Testimonials Section */
+#testimonials-section {
+	padding: 4% 0;
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#032731+0,032e3a+20,032e3a+100,032731+100 */
+	background: url(../img/testimonials-bg.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	color: #f1f1f1!important;
+}
+#testimonial {
+	padding: 30px 0;
+}
+#testimonial .item {
+	display: block;
+	width: 100%;
+	height: auto;
+}
+#testimonial .item p {
+	font-weight: 400;
+	margin: 0 0 30px 0;
+}
+/* Contact Section */
+#contact-section {
+
+	padding: 4% 0 20px 0;
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#c1a618+0,f1c40f+25,f1c40f+75,c1a618+100 */
+
+	
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='rgb(249, 248, 243)', endColorstr='#c1a618', GradientType=0 ); /* IE6-9 */
+}
+#contact-section hr {
+	background: #0b86d2;
+}
+#contact-section h3 {
+	font-size: 20px;
+	font-weight: 400;
+}
+#contact-section form {
+	padding: 30px 0;
+}
+#contact-section .fa {
+	color: #0b86d2;
+	margin-bottom: 10px;
+}
+label {
+	font-size: 12px;
+	font-weight: 400;
+	
+	float: left;
+}
+#contact-section .form-control {
+	display: block;
+	width: 100%;
+	padding: 6px 12px;
+	font-size: 14px;
+	line-height: 1.42857143;
+	color: #000;
+	background-color: #fff;
+	background-image: none;
+	border: 1px solid #ccc;
+	border-radius: 2px;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+	-webkit-transition: none;
+	-o-transition: none;
+	transition: none;
+}
+#contact-section .form-control:focus {
+	border-color: inherit;
+	outline: 0;
+	-webkit-box-shadow: transparent;
+	box-shadow: transparent;
+}
+#contact-section .social {
+	margin-top: 60px;
+}
+#contact-section .social ul li {
+	display: inline-block;
+	margin: 0 20px;
+}
+#contact-section .social i.fa {
+	font-size: 26px;
+	padding: 4px 5px;
+	color: #0b86d2;
+	transition: all 0.5s;
+	-webkit-transition: all 0.5s;
+	-moz-transition: all 0.5s;
+}
+#contact-section .social i.fa:hover {
+	color: #032731;
+}
+#contact-section .btn {
+	background: #0b86d2;
+	border: 2px solid #fef9e7;
+	border-radius: 4px;
+	padding: 6px 14px;
+	margin-top: 20px;
+	color: #fef9e7;
+	font-size: 16px;
+	transition: all 0.5s;
+}
+#contact-section .btn:hover, #contact-section .btn:focus {
+	background: #fef9e7;
+	border: 2px solid #fef9e7;
+	color: #5b777f;
+}
+#contact-section .text-danger {
+	color: #cc3300;
+	text-align: left;
+}
+.btn:active, .btn.active {
+	background-image: none;
+	outline: 0;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+}
+a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:active.focus, .btn.active.focus {
+	outline: none;
+	outline-offset: none;
+}
+/* Footer */
+#footer {
+	background: #000;
+	padding: 15px 0 10px 0;
+	color: #42626b;
+	text-align: center;
+}
+#footer p {
+	margin-top: 10px;
+}
+
+/* navbar bottom  */
+.navbar-fixed-top
+{
+	margin-bottom:0;
+}
+
+
+@media (max-width: 768px) {
+.content {
+	padding: 40% 0 0;
+}
+.intro-text h1
+{
+	font-size:4em;
+}
+body
+{
+padding:0;
+
+}
+}
+
+
+
+@media (max-width: 603px) {
+#menu.navbar-default {
+	background-color: rgba(0, 0, 0, 0.7);
+}
+label {
+	float: none !important
+}
+.hover-bg .hover-text {
+	padding: 12% 10%;
+}
+}
+
+@media (max-width: 360px) {
+.hover-bg .hover-text {
+	padding: 22% 10%;
+}
+}
+
+
+
+.team_box
+{
+	height:300px;
+}
+
+.portfolio_box
+{
+	height:300px;
+}
+
+#cc-header h2 {
+    font-size: 25px !important;
+}
+
+
+
+
+
+
+/* =WordPress Core
+-------------------------------------------------------------- */
+.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+.aligncenter,
+div.aligncenter {
+    display: block;
+    margin: 5px auto 5px auto;
+}
+
+.alignright {
+    float:right;
+    margin: 5px 0 20px 20px;
+}
+
+.alignleft {
+    float: left;
+    margin: 5px 20px 20px 0;
+}
+
+a img.alignright {
+    float: right;
+    margin: 5px 0 20px 20px;
+}
+
+a img.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+a img.alignleft {
+    float: left;
+    margin: 5px 20px 20px 0;
+}
+
+a img.aligncenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.wp-caption {
+    background: #fff;
+    border: 1px solid #f0f0f0;
+    max-width: 96%; /* Image does not overflow the content area */
+    padding: 5px 3px 10px;
+    text-align: center;
+}
+
+.wp-caption.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+.wp-caption.alignleft {
+    margin: 5px 20px 20px 0;
+}
+
+.wp-caption.alignright {
+    margin: 5px 0 20px 20px;
+}
+
+.wp-caption img {
+    border: 0 none;
+    height: auto;
+    margin: 0;
+    max-width: 98.5%;
+    padding: 0;
+    width: auto;
+}
+
+.wp-caption p.wp-caption-text {
+    font-size: 11px;
+    line-height: 17px;
+    margin: 0;
+    padding: 0 4px 5px;
+}
+
+
+
+
+
+/* Galary*/
+
+.gallery { margin: 0 auto 18px; }
+.gallery .gallery-item {
+	float: left;
+	margin-top: 0;
+	text-align: center;
+	width: 33%;
+}
+.gallery-columns-2 .gallery-item { width: 50%; }
+.gallery-columns-4 .gallery-item { width: 25%; }
+.gallery img {
+	box-shadow: 0px 0px 4px #999;
+	border: 1px solid white;
+	padding: 8px;
+	background: #f2f2f2;
+}
+.gallery img:hover {
+	background: white;
+}
+.gallery-columns-2 .attachment-medium {
+	max-width: 92%;
+	height: auto;
+}
+.gallery-columns-4 .attachment-thumbnail {
+	max-width: 84%;
+	height: auto;
+}
+.gallery .gallery-caption {
+	color: #888;
+	font-size: 12px;
+	margin: 0 0 12px;
+}
+.gallery dl, .gallery dt { margin: 0; }
+.gallery br+br { display: none; }
+
+
+
+.commentlist .bypostauthor {border-top: 10px solid #e18728;}
+	.commentlist li ul.children li.bypostauthor {border-top: 10px solid #e18728;}
+
+
+#menu_button
+{
+	z-index:999;
+}
+
+#success
+{
+	background-color:#99AAFF;
+}

@@ -1,0 +1,1099 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Elements Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-03-14 11:39:17 UTC\n"
+"PO-Revision-Date: 2014-04-15 11:58+0530\n"
+"Last-Translator: Surya <surya@cyberchimps.com>\n"
+"Language-Team: Danish, Denmark\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: ../../boxes.php ../../init.php ../../setup/features.php
+msgid "Boxes"
+msgstr "Felter"
+
+#: ../../boxes.php
+msgid "Add new Box"
+msgstr "Tilføje nye bokse kategori"
+
+#: ../../boxes.php
+msgid "Edit Box"
+msgstr "Redigeringsboksen"
+
+#: ../../boxes.php
+msgid "New Box"
+msgstr "Ny Box"
+
+#: ../../boxes.php
+msgid "View Box"
+msgstr "Se boks"
+
+#: ../../boxes.php
+msgid "Search Boxes"
+msgstr "Søgefelter"
+
+#: ../../boxes.php
+msgid "No Boxes found"
+msgstr "Ingen bokse fundet"
+
+#: ../../boxes.php
+msgid "No Boxes found in trash"
+msgstr "Ingen bokse findes i papirkurven"
+
+#: ../../boxes.php
+msgctxt "taxonomy general name"
+msgid "Boxes Categories"
+msgstr "Kasser kategorier"
+
+#: ../../boxes.php
+msgctxt "taxonomy singular name"
+msgid "Boxes Catergory"
+msgstr "Kasser Catergory"
+
+#: ../../boxes.php
+msgid "All Boxes"
+msgstr "Alle bokse"
+
+#: ../../boxes.php
+msgid "Boxes Category"
+msgstr "Kasser kategori"
+
+#: ../../boxes.php
+msgid "Boxes Category:"
+msgstr "Kasser kategori:"
+
+#: ../../boxes.php
+msgid "Edit Boxes Category"
+msgstr "Rediger felterne kategori"
+
+#: ../../boxes.php
+msgid "Update Boxes Category"
+msgstr "Opdatere kasser kategori"
+
+#: ../../boxes.php
+msgid "Add New Boxes Category"
+msgstr "Tilføje nye bokse kategori"
+
+#: ../../boxes.php
+msgid "New Boxes Category Name"
+msgstr "Nye kasser kategorinavn"
+
+#: ../../boxes.php
+msgid "Box Image"
+msgstr "Boksen billede"
+
+#: ../../boxes.php
+msgid "Box URL"
+msgstr "Boksen URL"
+
+#: ../../boxes.php
+msgid "Link the whole box"
+msgstr "Link boksen hele"
+
+#: ../../boxes.php
+msgid "Box Text"
+msgstr "Boksen tekst"
+
+#: ../../boxes.php
+msgid "Boxes Element"
+msgstr "Kasser Element"
+
+#: ../../boxes.php ../../carousel.php ../../portfolio.php ../../slider.php
+msgid "You need to create a Category"
+msgstr "Du skal oprette en kategori"
+
+#: ../../boxes.php
+msgid "Number of boxes per row"
+msgstr "Antal æsker pr. række"
+
+#: ../../boxes.php
+msgid "Boxes Options"
+msgstr "Banner indstillinger"
+
+#: ../../boxes.php
+msgid "%1$s Slider"
+msgstr "%1$ s skyderen"
+
+#: ../../boxes.php
+msgid ""
+"The New Touch Friendly %1$s Slider now responds to any mobile touch device."
+msgstr ""
+"Den nye Touch venlig %1$ s skyder nu reagerer på enhver mobil touch enhed."
+
+#: ../../boxes.php
+msgid "Responsive Design"
+msgstr "Responsive Design"
+
+#: ../../boxes.php
+msgid ""
+"With %1$s and touch friendly responsive design you can now control your "
+"website on any device."
+msgstr ""
+"Med %1$ s og touch venlig responsive design kan du nu styre dit websted på "
+"enhver enhed."
+
+#: ../../boxes.php
+msgid "Excellent Support"
+msgstr "Fremragende støtte"
+
+#: ../../boxes.php
+msgid ""
+"Need help? Read the instructions and please visit our dedicated Pro Support "
+"Forum."
+msgstr ""
+"Brug for hjælp? Læs instruktionerne og kan du besøge vores dedikerede Pro "
+"Support Forum."
+
+#: ../../breadcrumbs.php
+msgid "Home"
+msgstr "Hjem"
+
+#: ../../breadcrumbs.php
+msgid "Archive for category "
+msgstr "Arkiv for kategorien "
+
+#: ../../breadcrumbs.php
+msgid "Search results for "
+msgstr "Søgeresultater for "
+
+#: ../../breadcrumbs.php
+msgid "Posts tagged "
+msgstr "Stillinger tagged "
+
+#: ../../breadcrumbs.php
+msgid "Articles posted by "
+msgstr "Artikler indsendt af "
+
+#: ../../breadcrumbs.php
+msgid "Error 404"
+msgstr "Fejl 404"
+
+#: ../../breadcrumbs.php ../../init.php
+msgid "Page"
+msgstr "Side"
+
+#: ../../callout.php
+msgid "Callout Title"
+msgstr "Produktets titel"
+
+#: ../../callout.php
+msgid "%1$s's Call Out Element"
+msgstr "%1$ Sørensens råber Element"
+
+#: ../../callout.php
+msgid "Callout Text"
+msgstr "Billedforklaring med afsnit"
+
+#: ../../callout.php
+msgid ""
+"Use %1$s's Call Out section on any page where you want to deliver an "
+"important message to your customer or client."
+msgstr ""
+"Brug %1$ Sørensens kalder ud afsnit på en side hvor du ønsker at levere et "
+"vigtigt budskab til din kunde eller klient."
+
+#: ../../callout.php
+msgid "Callout Button"
+msgstr "Billedforklaring med afsnit"
+
+#: ../../callout.php
+msgid "Callout Button Text"
+msgstr "Billedforklaring med afsnit"
+
+#: ../../callout.php
+msgid "Click Here"
+msgstr "Klik her"
+
+#: ../../callout.php
+msgid "Callout Button URL"
+msgstr "Billedforklaring med afsnit"
+
+#: ../../callout.php
+msgid "Custom Callout Options"
+msgstr "Indstillinger for brugerdefinerede dias"
+
+#: ../../callout.php
+msgid "Custom Button Image"
+msgstr "Brugerdefinerede knapflade"
+
+#: ../../callout.php
+msgid "Custom Background Color"
+msgstr "Brugerdefineret baggrundsfarve"
+
+#: ../../callout.php
+msgid "Custom Title Color"
+msgstr "Brugerdefineret titel farve"
+
+#: ../../callout.php
+msgid "Custom Text Color"
+msgstr "Brugerdefineret tekstfarve"
+
+#: ../../callout.php
+msgid "Custom Button Color"
+msgstr "Brugerdefineret knap farve"
+
+#: ../../callout.php
+msgid "Custom Button Text Color"
+msgstr "Brugerdefineret knap tekstfarve"
+
+#: ../../callout.php
+msgid "Callout Options"
+msgstr "Billedforklaring med afsnit"
+
+#: ../../carousel.php ../../init.php
+msgid "Carousel"
+msgstr "Karrusel"
+
+#: ../../carousel.php
+msgid "Carousel item"
+msgstr "Karrusel"
+
+#: ../../carousel.php
+msgid "Add new Carousel item"
+msgstr "Tilføj ny Carousel kategori"
+
+#: ../../carousel.php
+msgid "Edit Carousel item"
+msgstr "Redigere karrusel kategori"
+
+#: ../../carousel.php
+msgid "New Carousel item"
+msgstr "Ny Carousel kategorinavn"
+
+#: ../../carousel.php
+msgid "View Carousel item"
+msgstr "Ny Carousel kategorinavn"
+
+#: ../../carousel.php
+msgid "Search Carousel items"
+msgstr "Søg karrusel"
+
+#: ../../carousel.php
+msgid "No Carousel items found"
+msgstr "Karrusel kategori"
+
+#: ../../carousel.php
+msgid "No Carousel items found in trash"
+msgstr "Ingen karrusel varer fundet i papirkurven"
+
+#: ../../carousel.php
+msgctxt "taxonomy general name"
+msgid "Carousel Categories"
+msgstr "Karrusel kategorier"
+
+#: ../../carousel.php
+msgctxt "taxonomy singular name"
+msgid "Carousel Catergory"
+msgstr "Karrusel Catergory"
+
+#: ../../carousel.php
+msgid "Search Carousel"
+msgstr "Søg karrusel"
+
+#: ../../carousel.php
+msgid "All Carousels"
+msgstr "Alle karruseller"
+
+#: ../../carousel.php
+msgid "Carousel Category"
+msgstr "Karrusel kategori"
+
+#: ../../carousel.php
+msgid "Carousel Category:"
+msgstr "Karrusel kategori:"
+
+#: ../../carousel.php
+msgid "Edit Carousel Category"
+msgstr "Redigere karrusel kategori"
+
+#: ../../carousel.php
+msgid "Update Carousel Category"
+msgstr "Opdatere karrusel kategori"
+
+#: ../../carousel.php
+msgid "Add New Carousel Category"
+msgstr "Tilføj ny Carousel kategori"
+
+#: ../../carousel.php
+msgid "New Carousel Category Name"
+msgstr "Ny Carousel kategorinavn"
+
+#: ../../carousel.php
+msgid "Featured Post Image"
+msgstr "Fremhævede Post billede"
+
+#: ../../carousel.php
+msgid "Featured Post URL"
+msgstr "Fremhævede Post URL"
+
+#: ../../carousel.php ../../portfolio.php
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: ../../carousel.php
+msgid "Reorder Name"
+msgstr "Omarrangere navn"
+
+#: ../../carousel.php
+msgid "Featured Post Carousel"
+msgstr "Fremhævede Post karrusel indstillinger"
+
+#: ../../carousel.php
+msgid "Carousel Options"
+msgstr "Fremhævede Post karrusel indstillinger"
+
+#: ../../htmlbox.php
+msgid "Custom HTML"
+msgstr "Custom CSS"
+
+#: ../../htmlbox.php
+msgid "Enter your custom html here"
+msgstr "Indtast din brugerdefinerede html her"
+
+#: ../../htmlbox.php
+msgid "HTML Box Options"
+msgstr "HTML-boks"
+
+#: ../../init.php
+msgid "Callout Section"
+msgstr "Billedforklaring med afsnit"
+
+#: ../../init.php
+msgid "HTML Box"
+msgstr "HTML-boks"
+
+#: ../../init.php ../../setup/features.php
+msgid "CyberChimps Slider"
+msgstr "CyberChimps skyderen"
+
+#: ../../init.php
+msgid "Magazine"
+msgstr "Magazine"
+
+#: ../../init.php ../../portfolio.php
+msgid "Portfolio"
+msgstr "Portefølje"
+
+#: ../../init.php ../../setup/features.php
+msgid "Post Page"
+msgstr "Post side"
+
+#: ../../init.php ../../product.php
+msgid "Product"
+msgstr "Produkt"
+
+#: ../../init.php
+msgid "Recent Posts"
+msgstr "Seneste indlæg"
+
+#: ../../init.php
+msgid "Twitter Bar"
+msgstr "Twitter Bar"
+
+#: ../../init.php
+msgid "Widgets"
+msgstr "Widgets"
+
+#: ../../init.php ../../setup/features.php
+msgid "Breadcrumbs"
+msgstr "Rasp"
+
+#: ../../magazine.php
+msgid "Edit"
+msgstr "Redigeringsboksen"
+
+#: ../../magazine.php
+msgid "Magazine Options"
+msgstr "Banner indstillinger"
+
+#: ../../magazine.php
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: ../../magazine.php
+msgid "Meta Data"
+msgstr "Metadata"
+
+#: ../../magazine.php
+msgid "Featured Image"
+msgstr "Fremhævede Post billede"
+
+#: ../../magazine.php
+msgid "Category"
+msgstr "Kasser kategori"
+
+#: ../../magazine.php
+msgid "Featured Excerpt Length"
+msgstr "Fremhævede Post URL"
+
+#: ../../magazine.php
+msgid "Number of Columns"
+msgstr "Antallet af Tweets"
+
+#: ../../magazine.php
+msgid "Number of Rows"
+msgstr "Antallet af Tweets"
+
+#: ../../magazine.php
+msgid "Wide Posts Below Magazine"
+msgstr "Bred stillinger under magasin"
+
+#: ../../magazine.php
+msgid "Wide Post Excerpt Length"
+msgstr "Bred Post uddrag længde"
+
+#: ../../magazine.php
+msgid "Number of Wide Posts"
+msgstr "Fremhævede Post URL"
+
+#: ../../magazine.php ../../recent-posts.php
+msgid "All"
+msgstr "Alle"
+
+#: ../../magazine.php
+msgid "magazine Options"
+msgstr "Banner indstillinger"
+
+#: ../../parallax.php
+msgid "Parallax"
+msgstr "Parallax"
+
+#: ../../parallax.php
+msgid "Parallax image"
+msgstr "Parallax billede"
+
+#: ../../parallax.php
+msgid "Parallax speed"
+msgstr "Parallax hastighed"
+
+#: ../../parallax.php
+msgid ""
+"Set the background image at Appearance > Background to get parallax effect "
+"on whole body."
+msgstr ""
+"Angive et baggrundsbillede på udseende > baggrund at få parallakse virkning "
+"på hele kroppen."
+
+#: ../../parallax.php
+msgid "Background scrolling speed"
+msgstr "Baggrund rullehastigheden"
+
+#: ../../parallax.php
+msgid "Background image for parallax"
+msgstr "Baggrundsbillede for parallakse"
+
+#: ../../parallax.php ../../setup/features.php
+msgid "Enter URL or upload file"
+msgstr "Angiv URL-adressen eller uploade filen"
+
+#: ../../portfolio.php ../../recent-posts.php
+msgid "Images"
+msgstr "Billeder"
+
+#: ../../portfolio.php
+msgid "Add new Image"
+msgstr "Skyderen billede"
+
+#: ../../portfolio.php
+msgid "Edit Image"
+msgstr "Billede"
+
+#: ../../portfolio.php
+msgid "New Image"
+msgstr "Billede"
+
+#: ../../portfolio.php
+msgid "View Image"
+msgstr "Skyderen billede"
+
+#: ../../portfolio.php
+msgid "Search Images"
+msgstr "Søgefelter"
+
+#: ../../portfolio.php
+msgid "No Images found"
+msgstr "Ingen billeder fundet"
+
+#: ../../portfolio.php
+msgid "No Images found in trash"
+msgstr "Ingen billeder findes i papirkurven"
+
+#: ../../portfolio.php
+msgctxt "taxonomy general name"
+msgid "Portfolio Categories"
+msgstr "Portefølje kategorier"
+
+#: ../../portfolio.php
+msgctxt "taxonomy singular name"
+msgid "Portfolio Catergory"
+msgstr "Portefølje Catergory"
+
+#: ../../portfolio.php
+msgid "Search Portfolio"
+msgstr "Søgning portefølje"
+
+#: ../../portfolio.php
+msgid "All Portfolios"
+msgstr "Alle porteføljer"
+
+#: ../../portfolio.php
+msgid "Portfolio Category"
+msgstr "Portefølje kategori"
+
+#: ../../portfolio.php
+msgid "Portfolio Category:"
+msgstr "Portefølje kategori:"
+
+#: ../../portfolio.php
+msgid "Edit Portfolio Category"
+msgstr "Rediger portefølje kategori"
+
+#: ../../portfolio.php
+msgid "Update Portfolio Category"
+msgstr "Opdatere portefølje kategori"
+
+#: ../../portfolio.php
+msgid "Add New Portfolio Category"
+msgstr "Tilføje nye portefølje kategori"
+
+#: ../../portfolio.php
+msgid "New Portfolio Category Name"
+msgstr "Nye portefølje kategorinavn"
+
+#: ../../portfolio.php
+msgid "Portfolio Image"
+msgstr "Portefølje billede"
+
+#: ../../portfolio.php ../../slider.php
+msgid "Caption"
+msgstr "Billedtekst"
+
+#: ../../portfolio.php
+msgid "Custom Portfolio URL"
+msgstr "Brugerdefinerede portefølje URL"
+
+#: ../../portfolio.php
+msgid "URL"
+msgstr "URL-ADRESSE"
+
+#: ../../portfolio.php
+msgid "Portfolio Element"
+msgstr "Portefølje Element"
+
+#: ../../portfolio.php
+msgid "Images per row"
+msgstr "Billeder"
+
+#: ../../portfolio.php
+msgid "Two"
+msgstr "To"
+
+#: ../../portfolio.php
+msgid "Three"
+msgstr "Tre"
+
+#: ../../portfolio.php
+msgid "Four"
+msgstr "Fire"
+
+#: ../../portfolio.php
+msgid "Portfolio Title"
+msgstr "Portefølje Element"
+
+#: ../../portfolio.php ../../recent-posts.php ../../slider.php
+msgid "Title"
+msgstr "Titel"
+
+#: ../../portfolio.php
+msgid "Portfolio Options"
+msgstr "Portefølje kategorier"
+
+#: ../../product.php
+msgid "Product Layout"
+msgstr "Produkt Layout"
+
+#: ../../product.php
+msgid "Text Left"
+msgstr "Tekst til venstre"
+
+#: ../../product.php
+msgid "Text Right"
+msgstr "Tekst mod højre"
+
+#: ../../product.php
+msgid "Product Title"
+msgstr "Produktets titel"
+
+#: ../../product.php
+msgid "Product Text"
+msgstr "Produkt tekst"
+
+#: ../../product.php
+msgid "Media Type"
+msgstr "Medietype"
+
+#: ../../product.php
+msgid "Image"
+msgstr "Billede"
+
+#: ../../product.php
+msgid "Video"
+msgstr "Video"
+
+#: ../../product.php
+msgid "Product Image URL"
+msgstr "Produkt billede URL"
+
+#: ../../product.php
+msgid "Product Video Embed"
+msgstr "Produkt videoen indlejre"
+
+#: ../../product.php
+msgid "Product Button Type"
+msgstr "Produkt linktekst"
+
+#: ../../product.php
+msgid "No button"
+msgstr "Ingen knap"
+
+#: ../../product.php
+msgid "Button"
+msgstr "Knappen"
+
+#: ../../product.php
+msgid "Button Image"
+msgstr "Boksen billede"
+
+#: ../../product.php
+msgid "Product Button URL"
+msgstr "Produkt URL"
+
+#: ../../product.php
+msgid "Product Button Text"
+msgstr "Produkt linktekst"
+
+#: ../../product.php
+msgid "Buy Now"
+msgstr "Køb nu"
+
+#: ../../product.php
+msgid "Product Image"
+msgstr "Produkt billede URL"
+
+#: ../../product.php
+msgid "Product URL"
+msgstr "Produkt URL"
+
+#: ../../product.php
+msgid "Product Link Text"
+msgstr "Produkt linktekst"
+
+#: ../../product.php
+msgid "Product Button Image"
+msgstr "Produkt billede URL"
+
+#: ../../product.php
+msgid "Product Button Image URL"
+msgstr "Produkt billede URL"
+
+#: ../../product.php
+msgid "Product Options"
+msgstr "Produkt Link"
+
+#: ../../recent-posts.php
+msgid "Recent Posts Title"
+msgstr "Seneste indlæg"
+
+#: ../../recent-posts.php
+msgid "Post Category"
+msgstr "Kasser kategori"
+
+#: ../../recent-posts.php
+msgid "Recent Posts Options"
+msgstr "Seneste indlæg"
+
+#: ../../slider.php
+msgid "Slides"
+msgstr "Dias"
+
+#: ../../slider.php
+msgid "Add new Slide"
+msgstr "Tilføj nye dias kategori"
+
+#: ../../slider.php
+msgid "Edit Slide"
+msgstr "Rediger dias kategori"
+
+#: ../../slider.php
+msgid "New Slide"
+msgstr "Dias"
+
+#: ../../slider.php
+msgid "View Slide"
+msgstr "iFeature skyderen"
+
+#: ../../slider.php
+msgid "Search Slides"
+msgstr "Søg dias"
+
+#: ../../slider.php
+msgid "No Slides found"
+msgstr "Ingen dias fundet"
+
+#: ../../slider.php
+msgid "No Slides found in trash"
+msgstr "Ingen dias findes i papirkurven"
+
+#: ../../slider.php
+msgctxt "taxonomy general name"
+msgid "Slide Categories"
+msgstr "Skub kategorier"
+
+#: ../../slider.php
+msgctxt "taxonomy singular name"
+msgid "Slide Catergory"
+msgstr "Skub Catergory"
+
+#: ../../slider.php
+msgid "All Slides"
+msgstr "Alle dias"
+
+#: ../../slider.php
+msgid "Slide Category"
+msgstr "Skub kategori"
+
+#: ../../slider.php
+msgid "Slide Category:"
+msgstr "Skub kategori:"
+
+#: ../../slider.php
+msgid "Edit Slide Category"
+msgstr "Rediger dias kategori"
+
+#: ../../slider.php
+msgid "Update Slide Category"
+msgstr "Opdatere dias kategori"
+
+#: ../../slider.php
+msgid "Add New Slide Category"
+msgstr "Tilføj nye dias kategori"
+
+#: ../../slider.php
+msgid "New Slide Category Name"
+msgstr "Nye dias kategorinavn"
+
+#: ../../slider.php
+msgid "Slider Image"
+msgstr "Skyderen billede"
+
+#: ../../slider.php
+msgid "Slider Caption"
+msgstr "Skyderen billedtekst"
+
+#: ../../slider.php
+msgid "Custom Slide Link"
+msgstr "Brugerdefinerede dias Link"
+
+#: ../../slider.php
+msgid "Reorder"
+msgstr "Omarrangere navn"
+
+#: ../../slider.php
+msgid "Custom Feature Slides"
+msgstr "Brugerdefineret funktion dias"
+
+#: ../../slider.php
+msgid "Slider Size"
+msgstr "Skyderen billede"
+
+#: ../../slider.php
+msgid "Full"
+msgstr "Fuld"
+
+#: ../../slider.php
+msgid "Half"
+msgstr "Halvdelen"
+
+#: ../../slider.php
+msgid "Slider Type"
+msgstr "Skyderen billede"
+
+#: ../../slider.php
+msgid "Custom"
+msgstr "Custom CSS"
+
+#: ../../slider.php
+msgid "Posts"
+msgstr "Indlæg"
+
+#: ../../slider.php
+msgid "Post Categories"
+msgstr "Kasser kategorier"
+
+#: ../../slider.php
+msgid "Custom Categories"
+msgstr "Karrusel kategorier"
+
+#: ../../slider.php
+msgid "Number of Featured Posts"
+msgstr "Fremhævede Post URL"
+
+#: ../../slider.php
+msgid "Slider Height"
+msgstr "Skyderen billede"
+
+#: ../../slider.php
+msgid "Slider Speed"
+msgstr "Skyderen billede"
+
+#: ../../slider.php
+msgid "Slider Arrows"
+msgstr "Dias"
+
+#: ../../slider.php
+msgid "CyberChimps Slider Options"
+msgstr "CyberChimps Slider-indstillinger"
+
+#: ../../twitter-bar.php
+msgid "Error retrieving tweets"
+msgstr "Fejl under hentning af tweets"
+
+#: ../../twitter-bar.php
+msgid "%1$s followers"
+msgstr "%1$ s tilhængere"
+
+#: ../../twitter-bar.php
+msgid "%s ago"
+msgstr "%s siden"
+
+#: ../../twitter-bar.php
+msgid "No tweets to display"
+msgstr "Ingen tweets at vise"
+
+#: ../../twitter-bar.php
+msgid "Twitter API Options"
+msgstr "Twitter API indstillinger"
+
+#: ../../twitter-bar.php
+msgid "Edit Twitter API"
+msgstr "Redigere Twitter API"
+
+#: ../../twitter-bar.php
+msgid "Create your Twitter App here"
+msgstr "Opret din kvidre App her"
+
+#: ../../twitter-bar.php
+msgid "Complete all parts of the form and create your application"
+msgstr "Udfylde alle dele af formularen og oprette din ansøgning"
+
+#: ../../twitter-bar.php
+msgid "On the next page click on the button Create my access token"
+msgstr "På den næste side skal du klikke på knappen Opret min adgangstoken"
+
+#: ../../twitter-bar.php
+msgid "Now take the details and fill out the form below"
+msgstr "Nu tager detaljerne og udfylde nedenstående formular"
+
+#: ../../twitter-bar.php
+msgid "Save your options"
+msgstr "Gem dine indstillinger"
+
+#: ../../twitter-bar.php
+msgid "Create a Twitter App"
+msgstr "Oprette en kvidre App"
+
+#: ../../twitter-bar.php
+msgid "Consumer Key"
+msgstr "Forbrugeren nøgle"
+
+#: ../../twitter-bar.php
+msgid "Consumer Secret"
+msgstr "Forbrugeren hemmelighed"
+
+#: ../../twitter-bar.php
+msgid "Access Token"
+msgstr "Adgangstoken"
+
+#: ../../twitter-bar.php
+msgid "Access Token Secret"
+msgstr "Adgang Token hemmelighed"
+
+#: ../../twitter-bar.php
+msgid "Twitter Handle"
+msgstr "Twitter håndtag"
+
+#: ../../twitter-bar.php
+msgid "Number Of Tweets"
+msgstr "Antallet af Tweets"
+
+#: ../../twitter-bar.php
+msgid ""
+"Including replies, if replies are set to off then the number shown could be "
+"less"
+msgstr ""
+"Herunder svar, hvis svar er indstillet til off derefter det viste tal kunne "
+"være mindre"
+
+#: ../../twitter-bar.php
+msgid "Use your Twitter Image"
+msgstr "Brug din kvidre billede"
+
+#: ../../twitter-bar.php
+msgid "Show the number of followers"
+msgstr "Vis antallet af tilhængere"
+
+#: ../../twitter-bar.php
+msgid "Include Replies"
+msgstr "Omfatte svar"
+
+#: ../../twitter-bar.php
+msgid "Include Retweets"
+msgstr "Omfatte Retweets"
+
+#: ../../twitter-bar.php
+msgid "Show a different Twitter account"
+msgstr "Vis en anden Twitter-konto"
+
+#: ../../twitter-bar.php
+msgid "Leaving this off will show the default account in your theme options"
+msgstr "Forlader dette vil vise standardkontoen i dit tema valgmuligheder"
+
+#: ../../twitter-bar.php
+msgid "Twitter Options"
+msgstr "Twitter API indstillinger"
+
+#: ../../twitter-bar.php
+msgid "Error"
+msgstr "Fejl 404"
+
+#: ../../widgets.php
+msgid "Box Left"
+msgstr "Boks til venstre"
+
+#: ../../widgets.php
+msgid "This is the left widget of the three-box section"
+msgstr "Dette er den venstre widget i afsnittet tre-box"
+
+#: ../../widgets.php
+msgid "Box Middle"
+msgstr "Boks midt"
+
+#: ../../widgets.php
+msgid "This is the middle widget of the three-box section"
+msgstr "Dette er den midterste widget i afsnittet tre-box"
+
+#: ../../widgets.php
+msgid "Box Right"
+msgstr "Boks lige"
+
+#: ../../widgets.php
+msgid "This is the right widget of the three-box section"
+msgstr "Dette er den rigtige widget i afsnittet tre-box"
+
+#: ../../widgets.php
+msgid "This is the box left widgetized area."
+msgstr "Dette er boksen venstre widgetized område."
+
+#: ../../widgets.php
+msgid "This is the box middle widgetized area."
+msgstr "Dette er den boks widgetized mellemområdet."
+
+#: ../../widgets.php
+msgid "This is the box right widgetized area."
+msgstr "Dette er boksen rigtige widgetized område."
+
+#: ../../setup/features.php
+msgid "Import/Export"
+msgstr "Import/eksport"
+
+#: ../../setup/features.php
+msgid "Custom CSS"
+msgstr "Custom CSS"
+
+#: ../../setup/features.php
+msgid "Contact Element"
+msgstr "Kontakt Element"
+
+#: ../../setup/features.php
+msgid "Banner Options"
+msgstr "Banner indstillinger"
+
+#: ../../setup/features.php
+msgid "Import / Export"
+msgstr "Import / eksport"
+
+#: ../../setup/features.php
+msgid "Details"
+msgstr "Detaljer"
+
+#: ../../setup/features.php
+msgid "Banner Image"
+msgstr "Bannerbillede"
+
+#: ../../setup/features.php
+msgid "Banner URL"
+msgstr "Banner URL"
+
+#: ../../setup/features.php
+msgid "Cyberchimps Link"
+msgstr "Cyberchimps Link"
+
+#: ../../setup/features.php
+msgid "Footer Scripts"
+msgstr "Sidefoden Scripts"
+
+#: ../../setup/features.php
+msgid "Please add script tags"
+msgstr "Tilføj venligst scripttags"
+
+#: ../../setup/features.php
+msgid "Export Settings"
+msgstr "Eksportindstillinger"
+
+#: ../../setup/features.php
+msgid "Import Settings"
+msgstr "Importere indstillinger"
+
+#: ../../setup/features.php
+msgid "Searchbar text"
+msgstr "Searchbar tekst"
+
+#: ../../setup/features.php
+msgid "Banner"
+msgstr "Banner"
+
+#: ../../setup/features.php
+msgid "Description + Icons"
+msgstr "Beskrivelse + ikoner"
+
+#: ../../setup/features.php
+msgid "Logo + Contact"
+msgstr "Logo + kontakt"
+
+#: ../../setup/features.php
+msgid "Logo + Description"
+msgstr "Logo + beskrivelse"
+
+#: ../../setup/features.php
+msgid "Logo + Icons"
+msgstr "Logo + ikoner"
+
+#: ../../setup/features.php
+msgid "Logo + Login"
+msgstr "Logo + Login"
+
+#: ../../setup/features.php
+msgid "Logo + Search"
+msgstr "Logo + søgning"
+
+#: ../../setup/features.php
+msgid "Logo"
+msgstr "Logo"
+
+#: ../../setup/features.php
+msgid "Footer Menu"
+msgstr "Footer Menu"
